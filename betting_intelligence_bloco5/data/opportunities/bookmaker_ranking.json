@@ -1,0 +1,24 @@
+[
+  {
+    "bookmaker": "EstrelaBet",
+    "snapshots": 1264,
+    "markets_seen": 1017,
+    "best_odd_count": 1009,
+    "best_odd_rate": 99.21,
+    "surebet_leg_count": 0,
+    "surebet_leg_rate": 0.0,
+    "avg_odd": 2.2899,
+    "ranking_score": 64.49
+  },
+  {
+    "bookmaker": "Multibet",
+    "snapshots": 2229,
+    "markets_seen": 2229,
+    "best_odd_count": 2015,
+    "best_odd_rate": 90.4,
+    "surebet_leg_count": 0,
+    "surebet_leg_rate": 0.0,
+    "avg_odd": 3.1148,
+    "ranking_score": 58.76
+  }
+]

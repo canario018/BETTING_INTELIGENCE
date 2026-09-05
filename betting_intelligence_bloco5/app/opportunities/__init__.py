@@ -1,0 +1,1 @@
+from app.opportunities.models import SurebetOpportunityModel, SurebetAlertModel

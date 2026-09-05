@@ -1,0 +1,7844 @@
+{
+    "sports": [
+        {
+            "isClickable": false,
+            "catIds": [
+                1134,
+                593,
+                1178,
+                497,
+                502,
+                501,
+                506,
+                503,
+                582,
+                1133,
+                574,
+                560,
+                569,
+                513,
+                602,
+                1132,
+                1131,
+                573,
+                499,
+                879,
+                550,
+                585,
+                842,
+                594,
+                891,
+                518,
+                783,
+                605,
+                916,
+                595,
+                1155,
+                797,
+                727,
+                565,
+                554,
+                590,
+                544,
+                852,
+                517,
+                810,
+                920,
+                820,
+                557,
+                795,
+                759,
+                566,
+                707,
+                567,
+                902,
+                883,
+                703,
+                516,
+                767,
+                845,
+                899,
+                555,
+                898,
+                908,
+                884,
+                738,
+                808,
+                888,
+                511,
+                716,
+                760,
+                729,
+                814,
+                561,
+                1149,
+                601,
+                854,
+                606,
+                495,
+                835,
+                496,
+                512,
+                604,
+                591,
+                603,
+                515,
+                563,
+                514,
+                812,
+                507,
+                509,
+                816,
+                588,
+                826,
+                882,
+                840,
+                847,
+                811,
+                575,
+                749,
+                1136,
+                1452
+            ],
+            "count": 1778,
+            "typeId": 1,
+            "iconName": "soccer",
+            "hasLiveEvents": true,
+            "id": 66,
+            "name": "Futebol"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                522,
+                1061,
+                1062,
+                531,
+                524,
+                552,
+                1119,
+                535,
+                541,
+                572,
+                546,
+                571,
+                523,
+                530,
+                521,
+                1135,
+                538,
+                543,
+                685
+            ],
+            "count": 592,
+            "typeId": 12,
+            "iconName": "basketball",
+            "hasLiveEvents": true,
+            "id": 67,
+            "name": "Basquete"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                742,
+                592,
+                607,
+                2278,
+                2279,
+                2280,
+                2281
+            ],
+            "count": 245,
+            "typeId": 4,
+            "iconName": "tennis",
+            "hasLiveEvents": true,
+            "id": 68,
+            "name": "Tênis"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                666,
+                823
+            ],
+            "count": 460,
+            "typeId": 20,
+            "iconName": "american-football",
+            "hasLiveEvents": true,
+            "id": 75,
+            "name": "Futebol Americano"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1534,
+                1531,
+                1532,
+                1533,
+                1538,
+                1539,
+                1746,
+                2138,
+                2150
+            ],
+            "count": 142,
+            "typeId": 317,
+            "iconName": "e-sports-+",
+            "hasLiveEvents": true,
+            "id": 145,
+            "name": "E-sports +\t\t"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                748,
+                679,
+                824,
+                1413
+            ],
+            "count": 9,
+            "typeId": 23,
+            "iconName": "futsal",
+            "hasLiveEvents": false,
+            "id": 88,
+            "name": "Futsal"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1054,
+                962,
+                1730,
+                1731
+            ],
+            "count": 118,
+            "typeId": 34,
+            "iconName": "table-tennis",
+            "hasLiveEvents": true,
+            "id": 77,
+            "name": "Tênis de mesa"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1020,
+                1014,
+                619,
+                689,
+                610,
+                699
+            ],
+            "count": 29,
+            "typeId": 19,
+            "iconName": "volleyball",
+            "hasLiveEvents": true,
+            "id": 69,
+            "name": "Vôlei"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1060,
+                636,
+                1066,
+                647,
+                634,
+                645,
+                640,
+                632,
+                639,
+                635,
+                643,
+                646,
+                638
+            ],
+            "count": 175,
+            "typeId": 16,
+            "iconName": "ice-hockey",
+            "hasLiveEvents": true,
+            "id": 70,
+            "name": "Hóquei no Gelo"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                674,
+                1363,
+                1376
+            ],
+            "count": 40,
+            "typeId": 40,
+            "iconName": "mma",
+            "hasLiveEvents": false,
+            "id": 84,
+            "name": "MMA"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                668,
+                875,
+                731,
+                1254,
+                972
+            ],
+            "count": 54,
+            "typeId": 13,
+            "iconName": "baseball",
+            "hasLiveEvents": true,
+            "id": 76,
+            "name": "Beisebol"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1247,
+                1248,
+                1446,
+                1449,
+                2432
+            ],
+            "count": 67,
+            "typeId": 7,
+            "iconName": "motorsport",
+            "hasLiveEvents": false,
+            "id": 103,
+            "name": "Esportes Motorizados"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                893,
+                2239
+            ],
+            "count": 51,
+            "typeId": 14,
+            "iconName": "cycling",
+            "hasLiveEvents": true,
+            "id": 89,
+            "name": "Ciclismo"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1357
+            ],
+            "count": 2,
+            "typeId": 28,
+            "iconName": "athletics",
+            "hasLiveEvents": false,
+            "id": 110,
+            "name": "Atletismo"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                755
+            ],
+            "count": 25,
+            "typeId": 35,
+            "iconName": "badminton",
+            "hasLiveEvents": false,
+            "id": 72,
+            "name": "Badminton"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                923,
+                904
+            ],
+            "count": 3,
+            "typeId": 43,
+            "iconName": "biathlon",
+            "hasLiveEvents": false,
+            "id": 93,
+            "name": "Biatlo"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                650
+            ],
+            "count": 65,
+            "typeId": 11,
+            "iconName": "boxing",
+            "hasLiveEvents": false,
+            "id": 71,
+            "name": "Boxe"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                721,
+                1126,
+                1128,
+                1122,
+                901,
+                665,
+                843,
+                2039
+            ],
+            "count": 20,
+            "typeId": 31,
+            "iconName": "cricket",
+            "hasLiveEvents": true,
+            "id": 74,
+            "name": "Cricket"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                670
+            ],
+            "count": 37,
+            "typeId": 9,
+            "iconName": "darts",
+            "hasLiveEvents": false,
+            "id": 78,
+            "name": "Dardos"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1086,
+                1087,
+                661,
+                652,
+                662,
+                651,
+                663,
+                698,
+                720,
+                656,
+                746,
+                654,
+                841
+            ],
+            "count": 102,
+            "typeId": 17,
+            "iconName": "handball",
+            "hasLiveEvents": false,
+            "id": 73,
+            "name": "Handebol"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                794,
+                726
+            ],
+            "count": 7,
+            "typeId": 18,
+            "iconName": "floorball",
+            "hasLiveEvents": false,
+            "id": 80,
+            "name": "Floorball"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                675,
+                676
+            ],
+            "count": 13,
+            "typeId": 15,
+            "iconName": "golf",
+            "hasLiveEvents": false,
+            "id": 85,
+            "name": "Golfe"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1245
+            ],
+            "count": 25,
+            "typeId": 82,
+            "iconName": "rugby-league",
+            "hasLiveEvents": false,
+            "id": 101,
+            "name": "Rugby League"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                1244
+            ],
+            "count": 39,
+            "typeId": 5,
+            "iconName": "rugby",
+            "hasLiveEvents": false,
+            "id": 102,
+            "name": "Rugby"
+        },
+        {
+            "isClickable": false,
+            "catIds": [
+                672
+            ],
+            "count": 4,
+            "typeId": 6,
+            "iconName": "snooker",
+            "hasLiveEvents": true,
+            "id": 81,
+            "name": "Sinuca internacional"
+        }
+    ],
+    "categories": [
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                2932,
+                5504,
+                3645,
+                49055
+            ],
+            "hasLiveEvents": false,
+            "id": 1134,
+            "name": "Mundo"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 79,
+            "champIds": [
+                11318,
+                11005,
+                3973,
+                4079,
+                16913,
+                17204,
+                8426,
+                4962
+            ],
+            "iso": "BRA",
+            "hasLiveEvents": true,
+            "id": 593,
+            "name": "Brasil"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 36,
+            "champIds": [
+                28116,
+                3709,
+                3108,
+                32355
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1178,
+            "name": "Américas"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 199,
+            "champIds": [
+                2936,
+                2937,
+                2947,
+                2946,
+                17437,
+                2935,
+                2972,
+                3022,
+                2955,
+                2959,
+                23721,
+                3476
+            ],
+            "iso": "ENG",
+            "hasLiveEvents": false,
+            "id": 497,
+            "name": "Inglaterra"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 86,
+            "champIds": [
+                2942,
+                3079,
+                41433
+            ],
+            "iso": "ITA",
+            "hasLiveEvents": false,
+            "id": 502,
+            "name": "Itália"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 77,
+            "champIds": [
+                2941,
+                3111,
+                32613,
+                2973
+            ],
+            "iso": "ESP",
+            "hasLiveEvents": false,
+            "id": 501,
+            "name": "Espanha"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 70,
+            "champIds": [
+                2950,
+                2954,
+                3044,
+                3112,
+                4398
+            ],
+            "iso": "DEU",
+            "hasLiveEvents": false,
+            "id": 506,
+            "name": "Alemanha"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 37,
+            "champIds": [
+                2943,
+                3143,
+                3671,
+                3070,
+                3441
+            ],
+            "iso": "FRA",
+            "hasLiveEvents": false,
+            "id": 503,
+            "name": "França"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 32,
+            "champIds": [
+                3152,
+                3388,
+                3707
+            ],
+            "iso": "PRT",
+            "hasLiveEvents": false,
+            "id": 582,
+            "name": "Portugal"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 105,
+            "champIds": [
+                5098,
+                16809,
+                16808,
+                3031,
+                31608
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1133,
+            "name": "Europa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 77,
+            "champIds": [
+                3075,
+                3979,
+                4257,
+                3916,
+                4077,
+                4452
+            ],
+            "iso": "ARG",
+            "hasLiveEvents": false,
+            "id": 574,
+            "name": "Argentina"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 23,
+            "champIds": [
+                10009,
+                3103,
+                3668,
+                17210
+            ],
+            "iso": "MEX",
+            "hasLiveEvents": false,
+            "id": 560,
+            "name": "México"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 34,
+            "champIds": [
+                3065,
+                3066
+            ],
+            "iso": "NLD",
+            "hasLiveEvents": false,
+            "id": 569,
+            "name": "Holanda"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 26,
+            "champIds": [
+                2965,
+                3056,
+                3403,
+                3869
+            ],
+            "iso": "BEL",
+            "hasLiveEvents": false,
+            "id": 513,
+            "name": "Bélgica"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 46,
+            "champIds": [
+                3537,
+                4825,
+                11347,
+                11327
+            ],
+            "iso": "SWE",
+            "hasLiveEvents": false,
+            "id": 602,
+            "name": "Suécia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                3570,
+                2931
+            ],
+            "hasLiveEvents": false,
+            "id": 1132,
+            "name": "Africa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                47876
+            ],
+            "hasLiveEvents": false,
+            "id": 1131,
+            "name": "Asia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                4056
+            ],
+            "iso": "ALB",
+            "hasLiveEvents": false,
+            "id": 573,
+            "name": "Albânia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                2939
+            ],
+            "iso": "DZA",
+            "hasLiveEvents": false,
+            "id": 499,
+            "name": "Argélia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                4726
+            ],
+            "iso": "ARM",
+            "hasLiveEvents": false,
+            "id": 879,
+            "name": "Armênia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 13,
+            "champIds": [
+                3032,
+                7615,
+                7811,
+                4611,
+                4804,
+                4449,
+                5164,
+                4450,
+                4807,
+                17075
+            ],
+            "iso": "AUS",
+            "hasLiveEvents": false,
+            "id": 550,
+            "name": "Austrália"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 26,
+            "champIds": [
+                3094,
+                3093,
+                3153,
+                4755,
+                62717,
+                62804
+            ],
+            "iso": "AUT",
+            "hasLiveEvents": false,
+            "id": 585,
+            "name": "Áustria"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 5,
+            "champIds": [
+                4217,
+                4338
+            ],
+            "iso": "AZE",
+            "hasLiveEvents": false,
+            "id": 842,
+            "name": "Azerbaijão"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                3132
+            ],
+            "iso": "BHR",
+            "hasLiveEvents": false,
+            "id": 594,
+            "name": "Bahrein"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 8,
+            "champIds": [
+                5285
+            ],
+            "iso": "BLR",
+            "hasLiveEvents": false,
+            "id": 891,
+            "name": "Bielorrússia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                40282,
+                21866
+            ],
+            "iso": "BOL",
+            "hasLiveEvents": true,
+            "id": 518,
+            "name": "Bolívia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3793
+            ],
+            "iso": "BWA",
+            "hasLiveEvents": false,
+            "id": 783,
+            "name": "Botswana"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                3163,
+                8279
+            ],
+            "iso": "BGR",
+            "hasLiveEvents": false,
+            "id": 605,
+            "name": "Bulgária"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                5086
+            ],
+            "iso": "CAN",
+            "hasLiveEvents": false,
+            "id": 916,
+            "name": "Canadá"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 16,
+            "champIds": [
+                3837,
+                3133,
+                8610
+            ],
+            "iso": "CHL",
+            "hasLiveEvents": false,
+            "id": 595,
+            "name": "Chile"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 15,
+            "champIds": [
+                8622,
+                8625
+            ],
+            "iso": "CHN",
+            "hasLiveEvents": false,
+            "id": 1155,
+            "name": "China"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 17,
+            "champIds": [
+                3857,
+                4009,
+                4663,
+                8638
+            ],
+            "iso": "COL",
+            "hasLiveEvents": true,
+            "id": 797,
+            "name": "Colômbia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 5,
+            "champIds": [
+                3516
+            ],
+            "iso": "CRI",
+            "hasLiveEvents": false,
+            "id": 727,
+            "name": "Costa Rica"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 11,
+            "champIds": [
+                3061,
+                39164,
+                41235
+            ],
+            "iso": "HRV",
+            "hasLiveEvents": false,
+            "id": 565,
+            "name": "Croácia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 25,
+            "champIds": [
+                3040
+            ],
+            "iso": "CYP",
+            "hasLiveEvents": false,
+            "id": 554,
+            "name": "Chipre"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 22,
+            "champIds": [
+                4685,
+                3105,
+                8684,
+                5344
+            ],
+            "iso": "CZE",
+            "hasLiveEvents": false,
+            "id": 590,
+            "name": "Rep. Checa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 28,
+            "champIds": [
+                3145,
+                3016,
+                5035,
+                32316,
+                37457
+            ],
+            "iso": "DNK",
+            "hasLiveEvents": false,
+            "id": 544,
+            "name": "Dinamarca "
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 8,
+            "champIds": [
+                4564,
+                4884
+            ],
+            "iso": "ECU",
+            "hasLiveEvents": false,
+            "id": 852,
+            "name": "Equador"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 12,
+            "champIds": [
+                2974,
+                3795
+            ],
+            "iso": "EGY",
+            "hasLiveEvents": false,
+            "id": 517,
+            "name": "Egito"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 5,
+            "champIds": [
+                4153
+            ],
+            "iso": "EST",
+            "hasLiveEvents": false,
+            "id": 810,
+            "name": "Estônia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                11103
+            ],
+            "iso": "FRO",
+            "hasLiveEvents": false,
+            "id": 920,
+            "name": "Ilhas Faroé"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 10,
+            "champIds": [
+                4593,
+                5165,
+                11342
+            ],
+            "iso": "FIN",
+            "hasLiveEvents": false,
+            "id": 820,
+            "name": "Finlândia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 38,
+            "champIds": [
+                3046,
+                3052
+            ],
+            "iso": "GRC",
+            "hasLiveEvents": false,
+            "id": 557,
+            "name": "Grécia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                4394
+            ],
+            "iso": "GTM",
+            "hasLiveEvents": false,
+            "id": 795,
+            "name": "Guatemala"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                3685
+            ],
+            "iso": "HND",
+            "hasLiveEvents": false,
+            "id": 759,
+            "name": "Honduras"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 13,
+            "champIds": [
+                3062,
+                3150
+            ],
+            "iso": "HUN",
+            "hasLiveEvents": false,
+            "id": 566,
+            "name": "Hungria"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 13,
+            "champIds": [
+                5276,
+                5426,
+                9091
+            ],
+            "iso": "ISL",
+            "hasLiveEvents": false,
+            "id": 707,
+            "name": "Islândia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                9327,
+                9227
+            ],
+            "iso": "IND",
+            "hasLiveEvents": false,
+            "id": 567,
+            "name": "Índia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                4927
+            ],
+            "iso": "IDN",
+            "hasLiveEvents": false,
+            "id": 902,
+            "name": "Indonésia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                4623
+            ],
+            "iso": "IRQ",
+            "hasLiveEvents": false,
+            "id": 883,
+            "name": "Iraque"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 14,
+            "champIds": [
+                3571,
+                4208,
+                9440,
+                3398
+            ],
+            "iso": "IRL",
+            "hasLiveEvents": false,
+            "id": 703,
+            "name": "Irlanda"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 16,
+            "champIds": [
+                3087,
+                3077,
+                3051
+            ],
+            "iso": "ISR",
+            "hasLiveEvents": false,
+            "id": 516,
+            "name": "Israel"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 22,
+            "champIds": [
+                3951,
+                4173,
+                9634
+            ],
+            "iso": "JPN",
+            "hasLiveEvents": false,
+            "id": 767,
+            "name": "Japão"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                4725,
+                9691
+            ],
+            "iso": "JOR",
+            "hasLiveEvents": false,
+            "id": 845,
+            "name": "Jordânia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 7,
+            "champIds": [
+                5133
+            ],
+            "iso": "KAZ",
+            "hasLiveEvents": false,
+            "id": 899,
+            "name": "Cazaquistão"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                3672
+            ],
+            "iso": "KWT",
+            "hasLiveEvents": false,
+            "id": 555,
+            "name": "Kuwait"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 5,
+            "champIds": [
+                4886
+            ],
+            "iso": "LVA",
+            "hasLiveEvents": false,
+            "id": 898,
+            "name": "Letônia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 8,
+            "champIds": [
+                11270,
+                4988
+            ],
+            "iso": "LTU",
+            "hasLiveEvents": false,
+            "id": 908,
+            "name": "Lituânia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                4624
+            ],
+            "iso": "MNE",
+            "hasLiveEvents": false,
+            "id": 884,
+            "name": "Montenegro"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                3577
+            ],
+            "iso": "MMR",
+            "hasLiveEvents": false,
+            "id": 738,
+            "name": "Myanmar"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                3988
+            ],
+            "iso": "NIC",
+            "hasLiveEvents": true,
+            "id": 808,
+            "name": "Nicarágua"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                4646
+            ],
+            "iso": "MKD",
+            "hasLiveEvents": false,
+            "id": 888,
+            "name": "Macedônia do Norte"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 13,
+            "champIds": [
+                2961,
+                3817,
+                10212,
+                10200
+            ],
+            "iso": "NIR",
+            "hasLiveEvents": false,
+            "id": 511,
+            "name": "Irlanda do Norte"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 19,
+            "champIds": [
+                3458,
+                3541,
+                11420
+            ],
+            "iso": "NOR",
+            "hasLiveEvents": false,
+            "id": 716,
+            "name": "Noruega"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3686
+            ],
+            "iso": "PAN",
+            "hasLiveEvents": false,
+            "id": 760,
+            "name": "Panamá"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 12,
+            "champIds": [
+                3522,
+                9914,
+                9920,
+                28014
+            ],
+            "iso": "PRY",
+            "hasLiveEvents": true,
+            "id": 729,
+            "name": "Paraguai"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                4042
+            ],
+            "iso": "PER",
+            "hasLiveEvents": false,
+            "id": 814,
+            "name": "Peru"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 20,
+            "champIds": [
+                3054,
+                4569,
+                17255
+            ],
+            "iso": "POL",
+            "hasLiveEvents": false,
+            "id": 561,
+            "name": "Polônia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                9700
+            ],
+            "iso": "PRI",
+            "hasLiveEvents": false,
+            "id": 1149,
+            "name": "Porto Rico"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                3159
+            ],
+            "iso": "QAT",
+            "hasLiveEvents": false,
+            "id": 601,
+            "name": "Catar"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 14,
+            "champIds": [
+                4276,
+                4277
+            ],
+            "iso": "KOR",
+            "hasLiveEvents": false,
+            "id": 854,
+            "name": "República da Coreia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 36,
+            "champIds": [
+                3164,
+                3842,
+                5043
+            ],
+            "iso": "ROU",
+            "hasLiveEvents": false,
+            "id": 606,
+            "name": "Romênia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 22,
+            "champIds": [
+                3140,
+                4630,
+                9539
+            ],
+            "iso": "RUS",
+            "hasLiveEvents": false,
+            "id": 495,
+            "name": "Rússia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                4151
+            ],
+            "iso": "SMR",
+            "hasLiveEvents": false,
+            "id": 835,
+            "name": "São Marino"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                2934
+            ],
+            "iso": "SAU",
+            "hasLiveEvents": false,
+            "id": 496,
+            "name": "Arábia Saudita"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 27,
+            "champIds": [
+                3023,
+                2962,
+                2964,
+                2963,
+                3024,
+                9449,
+                4717
+            ],
+            "iso": "SCO",
+            "hasLiveEvents": false,
+            "id": 512,
+            "name": "Escócia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 8,
+            "champIds": [
+                3162
+            ],
+            "iso": "SRB",
+            "hasLiveEvents": false,
+            "id": 604,
+            "name": "Sérvia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 16,
+            "champIds": [
+                3106,
+                5041,
+                4100
+            ],
+            "iso": "SVK",
+            "hasLiveEvents": false,
+            "id": 591,
+            "name": "Eslováquia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                3161,
+                5042,
+                5329
+            ],
+            "iso": "SVN",
+            "hasLiveEvents": false,
+            "id": 603,
+            "name": "Eslovênia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                2967,
+                3381
+            ],
+            "iso": "ZAF",
+            "hasLiveEvents": false,
+            "id": 515,
+            "name": "África do Sul"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 12,
+            "champIds": [
+                3059,
+                3118,
+                4460
+            ],
+            "iso": "CHE",
+            "hasLiveEvents": false,
+            "id": 563,
+            "name": "Suíça"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                2966
+            ],
+            "iso": "TZA",
+            "hasLiveEvents": false,
+            "id": 514,
+            "name": "Rep. da Tanzânia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3992
+            ],
+            "iso": "THA",
+            "hasLiveEvents": false,
+            "id": 812,
+            "name": "Tailândia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 34,
+            "champIds": [
+                2951,
+                3113
+            ],
+            "iso": "TUR",
+            "hasLiveEvents": false,
+            "id": 507,
+            "name": "Turquia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                2953
+            ],
+            "iso": "UGA",
+            "hasLiveEvents": false,
+            "id": 509,
+            "name": "Uganda"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 11,
+            "champIds": [
+                4004,
+                4970,
+                5374
+            ],
+            "iso": "UKR",
+            "hasLiveEvents": false,
+            "id": 816,
+            "name": "Ucrânia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 7,
+            "champIds": [
+                3098,
+                3344
+            ],
+            "iso": "ARE",
+            "hasLiveEvents": false,
+            "id": 588,
+            "name": "Emirados Árabes Unidos"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 20,
+            "champIds": [
+                10288,
+                4632,
+                36890
+            ],
+            "iso": "URY",
+            "hasLiveEvents": true,
+            "id": 826,
+            "name": "Uruguai"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 52,
+            "champIds": [
+                4610,
+                5005,
+                11305,
+                48358
+            ],
+            "iso": "USA",
+            "hasLiveEvents": false,
+            "id": 882,
+            "name": "Estados Unidos"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                4883
+            ],
+            "iso": "UZB",
+            "hasLiveEvents": false,
+            "id": 840,
+            "name": "Uzbequistão"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 5,
+            "champIds": [
+                4251
+            ],
+            "iso": "VEN",
+            "hasLiveEvents": true,
+            "id": 847,
+            "name": "Venezuela"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3991
+            ],
+            "iso": "VNM",
+            "hasLiveEvents": false,
+            "id": 811,
+            "name": "Vietnã"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 19,
+            "champIds": [
+                3078,
+                3334
+            ],
+            "iso": "WAL",
+            "hasLiveEvents": false,
+            "id": 575,
+            "name": "País de Gales"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                21798
+            ],
+            "iso": "ZAN",
+            "hasLiveEvents": false,
+            "id": 749,
+            "name": "Zanzibar"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                7474
+            ],
+            "iso": "ZWE",
+            "hasLiveEvents": false,
+            "id": 1136,
+            "name": "Zimbábue"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                26285
+            ],
+            "iso": "DMA",
+            "hasLiveEvents": false,
+            "id": 1452,
+            "name": "Dominica"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 231,
+            "champIds": [
+                2980,
+                5519,
+                42526
+            ],
+            "iso": "USA",
+            "hasLiveEvents": false,
+            "id": 522,
+            "name": "Estados Unidos"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 198,
+            "champIds": [
+                2995,
+                7222,
+                7417,
+                7197,
+                4708,
+                62811
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1061,
+            "name": "Europa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 115,
+            "champIds": [
+                3859,
+                7443,
+                7455
+            ],
+            "hasLiveEvents": false,
+            "id": 1062,
+            "name": "Mundo"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                7748,
+                3001,
+                18378
+            ],
+            "iso": "BRA",
+            "hasLiveEvents": true,
+            "id": 531,
+            "name": "Brasil"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3073
+            ],
+            "iso": "PRT",
+            "hasLiveEvents": false,
+            "id": 524,
+            "name": "Portugal"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                43655
+            ],
+            "iso": "MEX",
+            "hasLiveEvents": false,
+            "id": 552,
+            "name": "México"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                8326
+            ],
+            "iso": "PRY",
+            "hasLiveEvents": true,
+            "id": 1119,
+            "name": "Paraguai"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3015
+            ],
+            "iso": "AUS",
+            "hasLiveEvents": false,
+            "id": 535,
+            "name": "Austrália"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                3374
+            ],
+            "iso": "BEL",
+            "hasLiveEvents": false,
+            "id": 541,
+            "name": "Bélgica"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3069
+            ],
+            "iso": "BGR",
+            "hasLiveEvents": false,
+            "id": 572,
+            "name": "Bulgária"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                7831
+            ],
+            "iso": "CHN",
+            "hasLiveEvents": false,
+            "id": 546,
+            "name": "China"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3068
+            ],
+            "iso": "CZE",
+            "hasLiveEvents": false,
+            "id": 571,
+            "name": "Rep. Checa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 5,
+            "champIds": [
+                33156,
+                2982,
+                3405,
+                3155,
+                3154
+            ],
+            "iso": "GRC",
+            "hasLiveEvents": false,
+            "id": 523,
+            "name": "Grécia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                8053,
+                8072
+            ],
+            "iso": "ITA",
+            "hasLiveEvents": false,
+            "id": 530,
+            "name": "Itália"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 7,
+            "champIds": [
+                2978
+            ],
+            "iso": "LTU",
+            "hasLiveEvents": false,
+            "id": 521,
+            "name": "Lituânia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                23589
+            ],
+            "iso": "ZAF",
+            "hasLiveEvents": false,
+            "id": 1135,
+            "name": "África do Sul"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                7908
+            ],
+            "iso": "ESP",
+            "hasLiveEvents": false,
+            "id": 538,
+            "name": "Espanha"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3014
+            ],
+            "iso": "TUR",
+            "hasLiveEvents": false,
+            "id": 543,
+            "name": "Turquia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 7,
+            "champIds": [
+                8586,
+                8587
+            ],
+            "iso": "URY",
+            "hasLiveEvents": true,
+            "id": 685,
+            "name": "Uruguai"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 26,
+            "champIds": [
+                32664,
+                32666,
+                32678,
+                32679,
+                43006,
+                43007,
+                48431,
+                48434,
+                63136
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 742,
+            "name": "Challenger"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 61,
+            "champIds": [
+                51201,
+                51203,
+                52452,
+                52453,
+                53342,
+                55345,
+                55346,
+                55535,
+                56318,
+                56319,
+                56356,
+                56357,
+                56360,
+                56371,
+                56374,
+                56376,
+                56382,
+                56383,
+                56384,
+                56423,
+                63161,
+                63162,
+                63178,
+                63278,
+                63283
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 592,
+            "name": "ITF Masculino"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 58,
+            "champIds": [
+                51202,
+                51204,
+                54084,
+                55044,
+                55045,
+                55714,
+                55715,
+                56339,
+                56358,
+                56359,
+                56363,
+                56364,
+                56368,
+                56369,
+                56380,
+                56381,
+                56422,
+                56709,
+                56898,
+                62765,
+                63165,
+                63166,
+                63169,
+                63170,
+                63282
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 607,
+            "name": "ITF Feminino"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 94,
+            "champIds": [
+                3038,
+                17134,
+                3027,
+                17135
+            ],
+            "iso": "",
+            "hasLiveEvents": true,
+            "id": 2278,
+            "name": "US Open"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                3037,
+                3028
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 2279,
+            "name": "Open De França"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                3036,
+                3013
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 2280,
+            "name": "Australian Open"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                3158,
+                3039
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 2281,
+            "name": "Wimbledon"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 454,
+            "champIds": [
+                3281,
+                3284
+            ],
+            "iso": "USA",
+            "hasLiveEvents": true,
+            "id": 666,
+            "name": "Estados Unidos"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                4076
+            ],
+            "iso": "CAN",
+            "hasLiveEvents": false,
+            "id": 823,
+            "name": "Canadá"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 45,
+            "champIds": [
+                62489,
+                62501,
+                62966,
+                63013,
+                63018,
+                63029,
+                63093,
+                63094,
+                63129,
+                63182,
+                63279,
+                63297,
+                63298
+            ],
+            "iso": "e03",
+            "hasLiveEvents": true,
+            "id": 1534,
+            "name": "Counter-Strike"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 17,
+            "champIds": [
+                62454,
+                62701,
+                62865,
+                62930,
+                63025,
+                63119,
+                63155,
+                63164
+            ],
+            "iso": "e15",
+            "hasLiveEvents": true,
+            "id": 1531,
+            "name": "League of Legends"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 11,
+            "champIds": [
+                62242,
+                62243,
+                62575,
+                63280
+            ],
+            "iso": "e37",
+            "hasLiveEvents": false,
+            "id": 1532,
+            "name": "Valorant"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                63138
+            ],
+            "iso": "e05",
+            "hasLiveEvents": false,
+            "id": 1533,
+            "name": "Dota2"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                61936,
+                62070
+            ],
+            "iso": "e14",
+            "hasLiveEvents": false,
+            "id": 1538,
+            "name": "Kings of Glory"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 11,
+            "champIds": [
+                63186,
+                63188,
+                63189
+            ],
+            "iso": "e24",
+            "hasLiveEvents": false,
+            "id": 1539,
+            "name": "Rainbow Six"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 22,
+            "champIds": [
+                62827,
+                62828,
+                62935
+            ],
+            "iso": "e40",
+            "hasLiveEvents": false,
+            "id": 1746,
+            "name": "Mobile Legends"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                63158
+            ],
+            "iso": "e03",
+            "hasLiveEvents": true,
+            "id": 2138,
+            "name": "Counter-Strike 2 Duels"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 26,
+            "champIds": [
+                62987,
+                62988,
+                62989,
+                62990
+            ],
+            "iso": "e43",
+            "hasLiveEvents": false,
+            "id": 2150,
+            "name": "Apex legends"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3611
+            ],
+            "iso": "BLR",
+            "hasLiveEvents": false,
+            "id": 748,
+            "name": "Bielorrússia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                3305
+            ],
+            "iso": "RUS",
+            "hasLiveEvents": false,
+            "id": 679,
+            "name": "Rússia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                4084
+            ],
+            "iso": "UKR",
+            "hasLiveEvents": false,
+            "id": 824,
+            "name": "Ucrânia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                37035
+            ],
+            "iso": "ARG",
+            "hasLiveEvents": false,
+            "id": 1413,
+            "name": "Argentina"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 25,
+            "champIds": [
+                5363,
+                47269
+            ],
+            "iso": "",
+            "hasLiveEvents": true,
+            "id": 1054,
+            "name": "Mundo"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 23,
+            "champIds": [
+                37292
+            ],
+            "iso": "CZE",
+            "hasLiveEvents": false,
+            "id": 962,
+            "name": "Rep. Checa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 64,
+            "champIds": [
+                37299
+            ],
+            "iso": "UKR",
+            "hasLiveEvents": true,
+            "id": 1730,
+            "name": "Ukraine"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                37298
+            ],
+            "iso": "MDA",
+            "hasLiveEvents": false,
+            "id": 1731,
+            "name": "Moldova"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 8,
+            "champIds": [
+                31867,
+                31869
+            ],
+            "hasLiveEvents": false,
+            "id": 1020,
+            "name": "Europa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                32918
+            ],
+            "hasLiveEvents": false,
+            "id": 1014,
+            "name": "Asia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                3196,
+                3195
+            ],
+            "iso": "GRC",
+            "hasLiveEvents": false,
+            "id": 619,
+            "name": "Grécia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                9916
+            ],
+            "iso": "PHL",
+            "hasLiveEvents": false,
+            "id": 689,
+            "name": "Ilhas Filipinas"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 7,
+            "champIds": [
+                31753,
+                5393
+            ],
+            "iso": "RUS",
+            "hasLiveEvents": false,
+            "id": 610,
+            "name": "Rússia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                26281
+            ],
+            "iso": "USA",
+            "hasLiveEvents": true,
+            "id": 699,
+            "name": "Estados Unidos"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 11,
+            "champIds": [
+                3726,
+                3220
+            ],
+            "hasLiveEvents": true,
+            "id": 1060,
+            "name": "Mundo"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 11,
+            "champIds": [
+                3228,
+                3227
+            ],
+            "iso": "SWE",
+            "hasLiveEvents": false,
+            "id": 636,
+            "name": "Suécia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                3221
+            ],
+            "hasLiveEvents": false,
+            "id": 1066,
+            "name": "Europa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                62813
+            ],
+            "iso": "CAN",
+            "hasLiveEvents": true,
+            "id": 647,
+            "name": "Canadá"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                3223
+            ],
+            "iso": "CZE",
+            "hasLiveEvents": false,
+            "id": 634,
+            "name": "Rep. Checa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                3245
+            ],
+            "iso": "DNK",
+            "hasLiveEvents": false,
+            "id": 645,
+            "name": "Dinamarca"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 9,
+            "champIds": [
+                3237
+            ],
+            "iso": "FIN",
+            "hasLiveEvents": false,
+            "id": 640,
+            "name": "Finlândia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 8,
+            "champIds": [
+                3212
+            ],
+            "iso": "DEU",
+            "hasLiveEvents": false,
+            "id": 632,
+            "name": "Alemanha"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3235
+            ],
+            "iso": "NOR",
+            "hasLiveEvents": false,
+            "id": 639,
+            "name": "Noruega"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 23,
+            "champIds": [
+                3224,
+                3226
+            ],
+            "iso": "RUS",
+            "hasLiveEvents": false,
+            "id": 635,
+            "name": "Rússia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 7,
+            "champIds": [
+                3242
+            ],
+            "iso": "SVK",
+            "hasLiveEvents": false,
+            "id": 643,
+            "name": "Eslováquia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 8,
+            "champIds": [
+                3246
+            ],
+            "iso": "CHE",
+            "hasLiveEvents": false,
+            "id": 646,
+            "name": "Suíça"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 75,
+            "champIds": [
+                3232
+            ],
+            "iso": "USA",
+            "hasLiveEvents": false,
+            "id": 638,
+            "name": "Estados Unidos"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 24,
+            "champIds": [
+                62806,
+                62809,
+                62984,
+                63112
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 674,
+            "name": "UFC"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 11,
+            "champIds": [
+                58981
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1363,
+            "name": "One FC"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 5,
+            "champIds": [
+                58613
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1376,
+            "name": "Oktagon"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 38,
+            "champIds": [
+                37152,
+                3286
+            ],
+            "iso": "USA",
+            "hasLiveEvents": true,
+            "id": 668,
+            "name": "Estados Unidos"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                4457
+            ],
+            "iso": "JPN",
+            "hasLiveEvents": false,
+            "id": 875,
+            "name": "Japão"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                11126
+            ],
+            "iso": "MEX",
+            "hasLiveEvents": false,
+            "id": 731,
+            "name": "México"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                10899
+            ],
+            "iso": "KOR",
+            "hasLiveEvents": false,
+            "id": 1254,
+            "name": "Coreia do Sul"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                6705
+            ],
+            "iso": "TWN",
+            "hasLiveEvents": false,
+            "id": 972,
+            "name": "Taiwan"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                59797
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1247,
+            "name": "Nascar"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 61,
+            "champIds": [
+                57734,
+                58707
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1248,
+            "name": "Fórmula 1"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                58570
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1446,
+            "name": "Moto2"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                58617
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1449,
+            "name": "MotoGP"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                61146,
+                63051
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 2432,
+            "name": "Fórmula 2"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 32,
+            "champIds": [
+                17101,
+                32374
+            ],
+            "hasLiveEvents": true,
+            "id": 893,
+            "name": "Internacional"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 19,
+            "champIds": [
+                37938,
+                47252
+            ],
+            "iso": "",
+            "hasLiveEvents": true,
+            "id": 2239,
+            "name": "UCI ProSeries"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                37061,
+                37188
+            ],
+            "hasLiveEvents": false,
+            "id": 1357,
+            "name": "Internacional"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 25,
+            "champIds": [
+                56646,
+                56647,
+                56648,
+                56679,
+                56680,
+                56681,
+                56682,
+                56688,
+                56691
+            ],
+            "hasLiveEvents": false,
+            "id": 755,
+            "name": "Internacional"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                17338
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 923,
+            "name": "Biatlo masculino"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                17339
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 904,
+            "name": "Biatlo feminino"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 65,
+            "champIds": [
+                18264
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 650,
+            "name": "Internacional"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                38361
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 721,
+            "name": "Internacional"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                7328
+            ],
+            "hasLiveEvents": true,
+            "id": 1126,
+            "name": "Américas"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 8,
+            "champIds": [
+                24557,
+                7367,
+                17374,
+                32048
+            ],
+            "iso": "ENG",
+            "hasLiveEvents": true,
+            "id": 1128,
+            "name": "Inglaterra"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                63183
+            ],
+            "hasLiveEvents": false,
+            "id": 1122,
+            "name": "Ásia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                43115,
+                4926
+            ],
+            "iso": "IND",
+            "hasLiveEvents": false,
+            "id": 901,
+            "name": "India"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 2,
+            "champIds": [
+                7323,
+                3280
+            ],
+            "iso": "AUS",
+            "hasLiveEvents": false,
+            "id": 665,
+            "name": "Austrália"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                39542
+            ],
+            "iso": "ZAF",
+            "hasLiveEvents": false,
+            "id": 843,
+            "name": "África do Sul"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                63100
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 2039,
+            "name": "Europa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 37,
+            "champIds": [
+                17364,
+                23523,
+                32755,
+                3288
+            ],
+            "hasLiveEvents": false,
+            "id": 670,
+            "name": "Internacional"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                10694
+            ],
+            "hasLiveEvents": false,
+            "id": 1086,
+            "name": "Mundo"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 25,
+            "champIds": [
+                3264,
+                3265,
+                39526,
+                56438
+            ],
+            "hasLiveEvents": false,
+            "id": 1087,
+            "name": "Europa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                3276
+            ],
+            "iso": "AUT",
+            "hasLiveEvents": false,
+            "id": 661,
+            "name": "Áustria"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 10,
+            "champIds": [
+                3743,
+                3259,
+                3257
+            ],
+            "iso": "DNK",
+            "hasLiveEvents": false,
+            "id": 652,
+            "name": "Dinamarca"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 20,
+            "champIds": [
+                3467,
+                3277,
+                4369
+            ],
+            "iso": "FRA",
+            "hasLiveEvents": false,
+            "id": 662,
+            "name": "França"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 12,
+            "champIds": [
+                3254,
+                3253
+            ],
+            "iso": "DEU",
+            "hasLiveEvents": false,
+            "id": 651,
+            "name": "Alemanha"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 7,
+            "champIds": [
+                3666
+            ],
+            "iso": "HUN",
+            "hasLiveEvents": false,
+            "id": 663,
+            "name": "Hungria"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3366
+            ],
+            "iso": "POL",
+            "hasLiveEvents": false,
+            "id": 698,
+            "name": "Polônia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                4138
+            ],
+            "iso": "ROU",
+            "hasLiveEvents": false,
+            "id": 720,
+            "name": "Romênia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                3270
+            ],
+            "iso": "RUS",
+            "hasLiveEvents": false,
+            "id": 656,
+            "name": "Rússia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 6,
+            "champIds": [
+                4247
+            ],
+            "iso": "SVN",
+            "hasLiveEvents": false,
+            "id": 746,
+            "name": "Eslovênia"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                3266
+            ],
+            "iso": "ESP",
+            "hasLiveEvents": false,
+            "id": 654,
+            "name": "Espanha"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 5,
+            "champIds": [
+                4204
+            ],
+            "iso": "CHE",
+            "hasLiveEvents": false,
+            "id": 841,
+            "name": "Suíça"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                57492,
+                58112
+            ],
+            "hasLiveEvents": false,
+            "id": 794,
+            "name": "Internacional"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 3,
+            "champIds": [
+                56589
+            ],
+            "iso": "CZE",
+            "hasLiveEvents": false,
+            "id": 726,
+            "name": "Rep. Checa"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 12,
+            "champIds": [
+                24716,
+                31989,
+                36691,
+                37776,
+                38261,
+                53992,
+                63180
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 675,
+            "name": "Masculino"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 1,
+            "champIds": [
+                63181
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 676,
+            "name": "Feminino"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 25,
+            "champIds": [
+                10444,
+                49302,
+                10801,
+                10798,
+                10799
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1245,
+            "name": "Rugby League"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 39,
+            "champIds": [
+                31699,
+                10775,
+                10778,
+                10792,
+                10776,
+                10781,
+                10780,
+                10494,
+                10777,
+                10796,
+                10782,
+                18746,
+                62252
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1244,
+            "name": "União de Rugby"
+        },
+        {
+            "isClickable": false,
+            "eventsCount": 4,
+            "champIds": [
+                4936,
+                17332,
+                3850,
+                32178
+            ],
+            "hasLiveEvents": true,
+            "id": 672,
+            "name": "Internacional"
+        }
+    ],
+    "champs": [
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 2932,
+            "name": "Jogos Amistosos de Clube"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 5504,
+            "name": "Ballon dor"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3645,
+            "name": "Jogos Amigáveis Internacionais"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 49055,
+            "name": "FIFA Intercontinental Cup"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 53,
+            "hasLiveEvents": false,
+            "id": 11318,
+            "name": "Brasileirão Série A"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": true,
+            "id": 11005,
+            "name": "Brasileirão Série B"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 3973,
+            "name": "Copa do Brasil"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 4079,
+            "name": "Camp. Brasileiro, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 16913,
+            "name": "Brasileirão - Série C"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": true,
+            "id": 17204,
+            "name": "Brasileirão  Série D"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 8426,
+            "name": "Amazonense Serie B"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4962,
+            "name": "Gaúcho, Série A2"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 28116,
+            "name": "CONCACAF Caribbean Cup"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 16,
+            "hasLiveEvents": false,
+            "id": 3709,
+            "name": "Copa Libertadores"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 18,
+            "hasLiveEvents": false,
+            "id": 3108,
+            "name": "Copa Sul-Americana"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 32355,
+            "name": "Taça da Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 81,
+            "hasLiveEvents": false,
+            "id": 2936,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 18,
+            "hasLiveEvents": false,
+            "id": 2937,
+            "name": "Championship"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 17,
+            "hasLiveEvents": false,
+            "id": 2947,
+            "name": "League One"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 17,
+            "hasLiveEvents": false,
+            "id": 2946,
+            "name": "League Two"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 17437,
+            "name": "Taça FA, Qualificação"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 2935,
+            "name": "FA Cup"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 17,
+            "hasLiveEvents": false,
+            "id": 2972,
+            "name": "Copa da Liga Inglesa"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 13,
+            "hasLiveEvents": false,
+            "id": 3022,
+            "name": "National League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 12,
+            "hasLiveEvents": false,
+            "id": 2955,
+            "name": "Conferência Norte"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 2959,
+            "name": "Conferência Sul"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 23721,
+            "name": "FA Championship, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3476,
+            "name": "Super Liga Feminina"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 46,
+            "hasLiveEvents": false,
+            "id": 2942,
+            "name": "Série A"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 11,
+            "hasLiveEvents": false,
+            "id": 3079,
+            "name": "Série B"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 29,
+            "hasLiveEvents": false,
+            "id": 41433,
+            "name": "Série C"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 44,
+            "hasLiveEvents": false,
+            "id": 2941,
+            "name": "LaLiga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 12,
+            "hasLiveEvents": false,
+            "id": 3111,
+            "name": "LaLiga 2"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 20,
+            "hasLiveEvents": false,
+            "id": 32613,
+            "name": "Primera Federacion"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 2973,
+            "name": "Taça do Rei"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 41,
+            "hasLiveEvents": false,
+            "id": 2950,
+            "name": "Bundesliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 14,
+            "hasLiveEvents": false,
+            "id": 2954,
+            "name": "2. Bundesliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 3044,
+            "name": "3ª Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3112,
+            "name": "DFB Pokal"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 4398,
+            "name": "Bundesliga Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 17,
+            "hasLiveEvents": false,
+            "id": 2943,
+            "name": "Ligue 1"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 3143,
+            "name": "Ligue 2"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3671,
+            "name": "Ligue 3"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3070,
+            "name": "Copa de França"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3441,
+            "name": "Divisão 1 Feminina"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 24,
+            "hasLiveEvents": false,
+            "id": 3152,
+            "name": "Primeira Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3388,
+            "name": "2ª Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3707,
+            "name": "Taça da Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 44,
+            "hasLiveEvents": false,
+            "id": 5098,
+            "name": "Liga das Nações UEFA"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 19,
+            "hasLiveEvents": false,
+            "id": 16809,
+            "name": "Liga Europa"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 22,
+            "hasLiveEvents": false,
+            "id": 16808,
+            "name": "Liga dos Campeões"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3031,
+            "name": "Eurocopa 2028"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 19,
+            "hasLiveEvents": false,
+            "id": 31608,
+            "name": "Liga Conferência"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 33,
+            "hasLiveEvents": false,
+            "id": 3075,
+            "name": "Liga Profissional"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 3979,
+            "name": "Primeira B"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 18,
+            "hasLiveEvents": false,
+            "id": 4257,
+            "name": "Primeira Nacional"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 3916,
+            "name": "Taça Argentina"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 4077,
+            "name": "Torneo Federal A"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 4452,
+            "name": "Primera División, Femenino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 10009,
+            "name": "Liga MX"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3103,
+            "name": "Liga de Expansion MX"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 3668,
+            "name": "Segunda Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 17210,
+            "name": "Liga MX, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 23,
+            "hasLiveEvents": false,
+            "id": 3065,
+            "name": "Eredivisie"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 11,
+            "hasLiveEvents": false,
+            "id": 3066,
+            "name": "Eerste Divisie"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 17,
+            "hasLiveEvents": false,
+            "id": 2965,
+            "name": "Pro League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3056,
+            "name": "Primeira Divisão B"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3403,
+            "name": "Divisão 1, Feminina"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 3869,
+            "name": "Super Liga, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3537,
+            "name": "Allsvenskan"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 4825,
+            "name": "Segunda Liga Sueca"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 19,
+            "hasLiveEvents": false,
+            "id": 11347,
+            "name": "Division 2"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 11327,
+            "name": "Div 1"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 3570,
+            "name": "Liga dos Campeões CAF"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 2931,
+            "name": "Taça das Confederações da CAF"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 47876,
+            "name": "ASEAN Club Championship"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4056,
+            "name": "Primeira Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 2939,
+            "name": "Liga 1"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 4726,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3032,
+            "name": "A-League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 7615,
+            "name": "Liga Premier Norzone"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 7811,
+            "name": "Liga Estatal da Australia do Sul"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4611,
+            "name": "Taça FFA"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4804,
+            "name": "NPL Queensland, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4449,
+            "name": "NPL, Queensland"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 5164,
+            "name": "NPL, Tasmânia"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 4450,
+            "name": "Premier League Victoria"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 4807,
+            "name": "NPL, Oeste da Austrália"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 17075,
+            "name": "NPL, Norte de Nova País de Gales"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3094,
+            "name": "Bundesliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3093,
+            "name": "2. Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 3153,
+            "name": "Taça OBL Stiegl"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 4755,
+            "name": "Austrian Landesliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 62717,
+            "name": "Regionalliga South"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 62804,
+            "name": "Regionalliga North"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 4217,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 4338,
+            "name": "1ª Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 3132,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 5285,
+            "name": "Vysshaya Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 40282,
+            "name": "Copa Division Profesional"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 21866,
+            "name": "Divisão Profissional"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3793,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3163,
+            "name": "Parva Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 8279,
+            "name": "Supertaça"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 5086,
+            "name": "Premier League  do Canadá"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3837,
+            "name": "Liga de Primera"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3133,
+            "name": "Primeira B"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 8610,
+            "name": "Primeira Divisão Chilena, Feminina"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 8622,
+            "name": "Super Liga Chinesa"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 8625,
+            "name": "Liga da China"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 3857,
+            "name": "Primera A"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": true,
+            "id": 4009,
+            "name": "Torneio Postobon"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4663,
+            "name": "Copa Colômbia"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 8638,
+            "name": "Liga Femenina"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 3516,
+            "name": "Primeira Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3061,
+            "name": "HNL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 39164,
+            "name": "Druga NL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 41235,
+            "name": "Treca Nl"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 25,
+            "hasLiveEvents": false,
+            "id": 3040,
+            "name": "Cyprus League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 4685,
+            "name": "FNL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3105,
+            "name": "1. Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 8684,
+            "name": "Czech Republic Fourth Division"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 5344,
+            "name": "Krajsky Prebor"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3145,
+            "name": "Superligaen"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3016,
+            "name": "1ª Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 5035,
+            "name": "2ª Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 32316,
+            "name": "3rd Division"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 37457,
+            "name": "Danmarksserien"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 4564,
+            "name": "LigaPro"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 4884,
+            "name": "Liga Profissional Primeira B"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 2974,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 3795,
+            "name": "2ª Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 4153,
+            "name": "Meistriliiga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 11103,
+            "name": "1ª Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 4593,
+            "name": "Veikkausliiga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 5165,
+            "name": "Ykkosliiga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 11342,
+            "name": "Kolmonen"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 31,
+            "hasLiveEvents": false,
+            "id": 3046,
+            "name": "Super League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3052,
+            "name": "Super League 2"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 4394,
+            "name": "Liga Nacional, Abertura"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3685,
+            "name": "Liga Nacional - Apertura"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3062,
+            "name": "NB I"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3150,
+            "name": "NB II"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 5276,
+            "name": "Besta deild karla"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 5426,
+            "name": "1ª Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 9091,
+            "name": "3ª Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 9327,
+            "name": "Sikkim Premier Division League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 9227,
+            "name": "Liga Premier de Mizoram"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 4927,
+            "name": "Liga 1"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 4623,
+            "name": "Iraqi League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 3571,
+            "name": "Premier Division"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 4208,
+            "name": "1ª Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 9440,
+            "name": "Taça FAI FORD"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 3398,
+            "name": "Liga Senior Leinster"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3087,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3077,
+            "name": "Liga Alef"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 3051,
+            "name": "Liga Bet"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 3951,
+            "name": "J.League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 4173,
+            "name": "J.League 2"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 9634,
+            "name": "Nadeshiko League, Div 2, Women"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 4725,
+            "name": "Liga da Jordãnia"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 9691,
+            "name": "Liga Feminina"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 5133,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 3672,
+            "name": "Liga do Kuweit"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 4886,
+            "name": "Virsliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 11270,
+            "name": "1ª Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 4988,
+            "name": "A Lyga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4624,
+            "name": "Liga Prva Crnogorska"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 3577,
+            "name": "Liga Nacional"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": true,
+            "id": 3988,
+            "name": "Divisão Premier"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 4646,
+            "name": "Liga Prva"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 2961,
+            "name": "Premiership"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 3817,
+            "name": "Campeonato"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 10212,
+            "name": "Premier League, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 10200,
+            "name": "Campeonato da Irlanda do Norte, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3458,
+            "name": "Elitserien"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3541,
+            "name": "1. Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 11420,
+            "name": "1ª Divisão Fem."
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3686,
+            "name": "Liga Panamena de Futbol, Clausura"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3522,
+            "name": "Primeira Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": true,
+            "id": 9914,
+            "name": "Segunda Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 9920,
+            "name": "Primera Division B (APF)"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 28014,
+            "name": "Torneo Femenino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 4042,
+            "name": "Liga 1"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3054,
+            "name": "Ekstraklasa"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 4569,
+            "name": "1ª Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 17255,
+            "name": "Liga IV"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 9700,
+            "name": "Puerto Rico National Football League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 3159,
+            "name": "Liga das Estrelas"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 4276,
+            "name": "K-League 1"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 4277,
+            "name": "K-League 2"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 17,
+            "hasLiveEvents": false,
+            "id": 3164,
+            "name": "Liga 1"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 11,
+            "hasLiveEvents": false,
+            "id": 3842,
+            "name": "Liga 2"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 5043,
+            "name": "Liga Iii"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3140,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 4630,
+            "name": "Football National League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 9539,
+            "name": "Liga Premier, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 4151,
+            "name": "Campeonato Sammarinese"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 2934,
+            "name": "Saudi Pro League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3023,
+            "name": "Premiership"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 2962,
+            "name": "Campeonato"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 2964,
+            "name": "League One"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 2963,
+            "name": "League Two"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3024,
+            "name": "Taça da Escócia"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 9449,
+            "name": "Copa da Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4717,
+            "name": "Premier League 1, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3162,
+            "name": "SuperLiga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3106,
+            "name": "Superliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 5041,
+            "name": "2ª Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4100,
+            "name": "Taça da Eslováquia"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 3161,
+            "name": "1ª Liga Eslovena"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 5042,
+            "name": "2ª Liga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 5329,
+            "name": "3. SNL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 2967,
+            "name": "Premiership"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3381,
+            "name": "National First Division"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3059,
+            "name": "Super League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 3118,
+            "name": "Liga Challenge"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4460,
+            "name": "Super Liga, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 2966,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3992,
+            "name": "Liga 1 da Tailândia"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 24,
+            "hasLiveEvents": false,
+            "id": 2951,
+            "name": "Süper Lig"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 10,
+            "hasLiveEvents": false,
+            "id": 3113,
+            "name": "1 Liga Bank Asya"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 2953,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 4004,
+            "name": "Premier League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4970,
+            "name": "Taça da Ucrânia"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 5374,
+            "name": "Liga Persha"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 3098,
+            "name": "Liga do Golfo Arábico"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 3344,
+            "name": "Division 1"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 10288,
+            "name": "Segunda Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 4632,
+            "name": "Primeira Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": true,
+            "id": 36890,
+            "name": "Copa do Uruguai\t\t"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 2
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 30,
+            "hasLiveEvents": false,
+            "id": 4610,
+            "name": "MLS"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 11,
+            "hasLiveEvents": false,
+            "id": 5005,
+            "name": "USL Championship"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 11305,
+            "name": "Liga Nacional de Futebol Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 48358,
+            "name": "USL Super League, Women"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 4883,
+            "name": "PFL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 5,
+            "hasLiveEvents": true,
+            "id": 4251,
+            "name": "Primeira Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3991,
+            "name": "V-League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3078,
+            "name": "Cymru Premier"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 11,
+            "hasLiveEvents": false,
+            "id": 3334,
+            "name": "Cymru Championship"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 21798,
+            "name": "Liga Premier"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 7474,
+            "name": "Premier Soccer League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 26285,
+            "name": "Liga Premier"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 20
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 197,
+            "hasLiveEvents": false,
+            "id": 2980,
+            "name": "NBA"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 27,
+            "hasLiveEvents": false,
+            "id": 5519,
+            "name": "WNBA"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 42526,
+            "name": "NBA Cup\t\t"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 158,
+            "hasLiveEvents": false,
+            "id": 2995,
+            "name": "Euroliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 7222,
+            "name": "Liga dos Campeões"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 18,
+            "hasLiveEvents": false,
+            "id": 7417,
+            "name": "EuroCup"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 7197,
+            "name": "Liga ABA"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 17,
+            "hasLiveEvents": false,
+            "id": 4708,
+            "name": "Eliminatórias da Copa - Europa"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 62811,
+            "name": "Supercopa da Euroliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3859,
+            "name": "Jogos Amistosos de Clube, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 22,
+            "hasLiveEvents": false,
+            "id": 7443,
+            "name": "Jogos Amistosos de Clube"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 92,
+            "hasLiveEvents": false,
+            "id": 7455,
+            "name": "FIBA Copa do Mundo Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": true,
+            "id": 7748,
+            "name": "Liga Paulista"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3001,
+            "name": "NBB"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 18378,
+            "name": "Catarinense, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3073,
+            "name": "LPB"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 43655,
+            "name": "Copa Value"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": true,
+            "id": 8326,
+            "name": "Liga Nacional de Basquetebol"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3015,
+            "name": "NBL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 3374,
+            "name": "2º Divisão"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3069,
+            "name": "NBL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 7831,
+            "name": "CBA Pre-season"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3068,
+            "name": "NBL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 33156,
+            "name": "Super Cup"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 2982,
+            "name": "Basket League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3405,
+            "name": "A1, Feminino"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3155,
+            "name": "Elite League"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3154,
+            "name": "Taça da Grécia"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 8053,
+            "name": "Serie A"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 8072,
+            "name": "Supertaça"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 2978,
+            "name": "LKL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 23589,
+            "name": "BNLSA, Women"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 7908,
+            "name": "Supercopa"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3014,
+            "name": "TBSL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": true,
+            "id": 8586,
+            "name": "Liga de Ascenso"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 8587,
+            "name": "Liga Feminina"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 32664,
+            "name": "ATP Challenger Como, Itália, Masculino Individual"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 32666,
+            "name": "ATP Challenger Como, Itália, Masculino Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 32678,
+            "name": "ATP Challenger Manacor, Maiorca, Espanha, Masculino Individual"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 32679,
+            "name": "ATP Challenger Manacor, Maiorca, Espanha, Masculino Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 43006,
+            "name": "ATP Challenger Zhangjiagang, China, Masculino Individual"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 43007,
+            "name": "ATP Challenger Zhangjiagang, China, Masculino Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 48431,
+            "name": "ATP Challenger Porto 2, Portugal, Masculino Individual"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 48434,
+            "name": "ATP Challenger Porto 2, Portugal, Masculino Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63136,
+            "name": "ATP Challenger Plovdiv 3, Bulgária, Masculino Individual"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 51201,
+            "name": "ITF M15 Monastir"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 51203,
+            "name": "ITF M15 Monastir Duplas"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 52452,
+            "name": "ITF M15 Nonthaburi Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 52453,
+            "name": "ITF M15 Nonthaburi"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 53342,
+            "name": "ITF M15 Kursumlijska Banja"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 55345,
+            "name": "ITF M15 Wuning"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 55346,
+            "name": "ITF M15 Wuning Duplas"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 55535,
+            "name": "ITF M15 Bali"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56318,
+            "name": "ITF M15 Buzau"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56319,
+            "name": "ITF M15 Buzau Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56356,
+            "name": "ITF M25 Meerbusch"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 56357,
+            "name": "ITF M25 Meerbusch Duplas"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 56360,
+            "name": "ITF M15 Haren"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56371,
+            "name": "ITF M25+H Bagneres de Bigorre"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56374,
+            "name": "ITF M15 Bologna"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 56376,
+            "name": "ITF M15 Madrid"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56382,
+            "name": "ITF M15 Hurghada Duplas"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 56383,
+            "name": "ITF M15 Szczawno"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 56384,
+            "name": "ITF M15 Szczawno Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56423,
+            "name": "ITF M15 Hurghada"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63161,
+            "name": "ITF M25 Urayasu"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 63162,
+            "name": "ITF M25 Urayasu Duplas"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 63178,
+            "name": "ITF M15 Porto Velho Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63278,
+            "name": "ITF M25 Casablanca"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 63283,
+            "name": "ITF M15 Trelew Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 51202,
+            "name": "ITF W15 Monastir"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 51204,
+            "name": "ITF W15 Monastir Duplas"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 54084,
+            "name": "ITF W35 Kursumlijska Banja"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 55044,
+            "name": "ITF W15 Grodzisk Mazowiecki"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 55045,
+            "name": "ITF W15 Grodzisk Mazowiecki Duplas"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 55714,
+            "name": "ITF W15 Brasov Duplas"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 55715,
+            "name": "ITF W15 Brasov"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56339,
+            "name": "ITF W15 Yeongwol"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 56358,
+            "name": "ITF W50 Leiria"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56359,
+            "name": "ITF W50 Leiria Duplas"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 56363,
+            "name": "ITF W15 Haren"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 56364,
+            "name": "ITF W15 Yeongwol Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56368,
+            "name": "ITF W50 Saint Palais sur Mer"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56369,
+            "name": "ITF W50 Saint Palais sur Mer Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56380,
+            "name": "ITF W15 Fiano Romano"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56381,
+            "name": "ITF W15 Fiano Romano Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56422,
+            "name": "ITF W15 Hurghada"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56709,
+            "name": "ITF W15 Lujan"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56898,
+            "name": "ITF W15 Cap d Agde"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 62765,
+            "name": "ITF W15 Tianjin Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63165,
+            "name": "ITF W75 Tianjin"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 63166,
+            "name": "ITF W75 Tianjin Duplas"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 63169,
+            "name": "ITF W15 Badalona"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 63170,
+            "name": "ITF W15 Pecs"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 63282,
+            "name": "ITF W15 Porto Velho Duplas"
+        },
+        {
+            "eventsCount": 23,
+            "hasLiveEvents": true,
+            "id": 3038,
+            "name": "Aberto dos Estados Unidos, Feminino Individual"
+        },
+        {
+            "eventsCount": 18,
+            "hasLiveEvents": true,
+            "id": 17134,
+            "name": "Aberto dos Estados Unidos, Feminino Duplas"
+        },
+        {
+            "eventsCount": 21,
+            "hasLiveEvents": true,
+            "id": 3027,
+            "name": "Aberto dos Estados Unidos, Masculino Individual"
+        },
+        {
+            "eventsCount": 32,
+            "hasLiveEvents": false,
+            "id": 17135,
+            "name": "Aberto dos Estados Unidos, Masculino Duplas"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3037,
+            "name": "Open De França, Feminino Individual"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3028,
+            "name": "Open De França, Masculino Individual"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3036,
+            "name": "Open da Austrália, Feminino Individual"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3013,
+            "name": "Open da Austrália, Masculino Individual"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3158,
+            "name": "Wimbledon Singulares Masculinos "
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3039,
+            "name": "Wimbledon Singulares Femininos"
+        },
+        {
+            "offers": [
+                {
+                    "type": 0,
+                    "parameter": 17
+                },
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 253,
+            "hasLiveEvents": false,
+            "id": 3281,
+            "name": "NFL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 201,
+            "hasLiveEvents": true,
+            "id": 3284,
+            "name": "NCAA"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 4076,
+            "name": "CFL"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 62489,
+            "name": "ESEA Advanced Season 58 Europe"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 62501,
+            "name": "ESEA Advanced Season 58 North America"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 62966,
+            "name": "BLAST Open Fall 2026"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": true,
+            "id": 63013,
+            "name": "CCT South America 2026 Series 5"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 63018,
+            "name": "UPGrade Masters Cup"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63029,
+            "name": "G Play Connect 2026: Closed Qualifier"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 63093,
+            "name": "Intel Extreme Masters Beijing 2026: Global Qualifier"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 63094,
+            "name": "Intel Extreme Masters Beijing 2026: Asian Qualifier"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 63129,
+            "name": "European Pro League Series 10 Play-In"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63182,
+            "name": "Ranked Episode 4: Closed Qualifier"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 63279,
+            "name": "CCT Europe 2026 Series 8"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63297,
+            "name": "NSTLGA League Season 2"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 63298,
+            "name": "PGL Masters Bucharest 2026: European Open Qualifier"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 62454,
+            "name": "LCS 2026 Summer"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 62701,
+            "name": "TCL 2026 Summer"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 62865,
+            "name": "CD 2026 Split 2 Playoffs"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": true,
+            "id": 62930,
+            "name": "NACL 2026 Summer Playoffs"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 63025,
+            "name": "LPL 2026 Grand Finals"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 63119,
+            "name": "LCK 2026 Season Playoffs"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 63155,
+            "name": "LEC 2026 Summer Playoffs"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 63164,
+            "name": "CBLOL 2026 Split 2 Playoffs"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 62242,
+            "name": "VCT 2026: Pacific Stage 2"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 62243,
+            "name": "VCT 2026: Americas Stage 2"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 62575,
+            "name": "VCT 2026: Game Changers North America Stage 2"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 63280,
+            "name": "China Evolution Series 2026: Act 3"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 63138,
+            "name": "EPL Masters II"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 61936,
+            "name": "King Pro League Summer 2026"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 62070,
+            "name": "KPL Growth League Summer 2026"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 63186,
+            "name": "Asia Pacific League 2026 - Asia - Stage 2"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63188,
+            "name": "Asia Pacific League 2026 - North - Stage 2"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 63189,
+            "name": "South America League 2026 - Stage 2"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 62827,
+            "name": "MPL Malaysia Season 18"
+        },
+        {
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 62828,
+            "name": "MPL Indonesia Season 18"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 62935,
+            "name": "MPL Philippines Season 18"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": true,
+            "id": 63158,
+            "name": "Berserk CS2 League 2026 Week #36"
+        },
+        {
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 62987,
+            "name": "Apex Legends Global Series 2026: Split 2 Pro League - Americas"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 62988,
+            "name": "Apex Legends Global Series 2026: Split 2 Pro League - EMEA"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 62989,
+            "name": "Apex Legends Global Series 2026: Split 2 Pro League - APAC South"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 62990,
+            "name": "Apex Legends Global Series 2026: Split 2 Pro League - APAC North"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3611,
+            "name": "Vyshchaya Liga"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 3305,
+            "name": "Super Liga da Rússia"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 4084,
+            "name": "Extra-Liga"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 37035,
+            "name": "Cup"
+        },
+        {
+            "eventsCount": 24,
+            "hasLiveEvents": false,
+            "id": 5363,
+            "name": "TT Cup"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 47269,
+            "name": "Wincup"
+        },
+        {
+            "eventsCount": 23,
+            "hasLiveEvents": false,
+            "id": 37292,
+            "name": "Setka Cup (M) CZ"
+        },
+        {
+            "eventsCount": 64,
+            "hasLiveEvents": true,
+            "id": 37299,
+            "name": "Setka Cup (M) UA"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 37298,
+            "name": "Setka Cup (M) MD"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 31867,
+            "name": "Campeonato Europeu (F)"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 31869,
+            "name": "Campeonato Europeu"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 32918,
+            "name": "Asian Championship"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3196,
+            "name": "Liga A1"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3195,
+            "name": "Liga A1 Feminina"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 9916,
+            "name": "Premier Volleyball League, Women"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 31753,
+            "name": "Pro League, Women"
+        },
+        {
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 5393,
+            "name": "Pro League"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": true,
+            "id": 26281,
+            "name": "NCAA Women, Regular Season"
+        },
+        {
+            "eventsCount": 10,
+            "hasLiveEvents": true,
+            "id": 3726,
+            "name": "Jogos Amistosos de Clube"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3220,
+            "name": "IIHF Campeonato do Mundo"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 3228,
+            "name": "Allsvenskan"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3227,
+            "name": "SHL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3221,
+            "name": "Liga dos Campeões de Hoquei no Gelo"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 62813,
+            "name": "OHL - Preseason"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3223,
+            "name": "Extraliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 3245,
+            "name": "Liga Super De H. do Gelo"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3237,
+            "name": "Liiga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3212,
+            "name": "DEL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3235,
+            "name": "EHL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 16,
+            "hasLiveEvents": false,
+            "id": 3224,
+            "name": "KHL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3226,
+            "name": "VHL"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3242,
+            "name": "Extraliga"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3246,
+            "name": "Liga Nacional"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 75,
+            "hasLiveEvents": false,
+            "id": 3232,
+            "name": "NHL"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 62806,
+            "name": "UFC 331 - Van vs Pantoja 2"
+        },
+        {
+            "eventsCount": 14,
+            "hasLiveEvents": false,
+            "id": 62809,
+            "name": "UFC Fight Night - Hooker vs Parnasse"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 62984,
+            "name": "UFC 333 - Volkanovski vs Evloev"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 63112,
+            "name": "UFC Fight Night - Silva vs Delgado"
+        },
+        {
+            "eventsCount": 11,
+            "hasLiveEvents": false,
+            "id": 58981,
+            "name": "ONE Championship"
+        },
+        {
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 58613,
+            "name": "Oktagon"
+        },
+        {
+            "eventsCount": 8,
+            "hasLiveEvents": true,
+            "id": 37152,
+            "name": "Triple A, National Championship"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "eventsCount": 30,
+            "hasLiveEvents": true,
+            "id": 3286,
+            "name": "MLB"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 4457,
+            "name": "NPB"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 11126,
+            "name": "Liga Mexicana"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 10899,
+            "name": "Liga KBO"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 6705,
+            "name": "CPBL"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 59797,
+            "name": "Nascar O Reilly Auto Parts Series 2026"
+        },
+        {
+            "eventsCount": 52,
+            "hasLiveEvents": false,
+            "id": 57734,
+            "name": "Grande Prêmio da Itália"
+        },
+        {
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 58707,
+            "name": "Fórmula 1 2026"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 58570,
+            "name": "Moto2 2026"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 58617,
+            "name": "MotoGP 2026"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 61146,
+            "name": "Campeonato de Pilotos "
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 63051,
+            "name": "Grande Prêmio de Monza"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 17101,
+            "name": "Tour de França"
+        },
+        {
+            "eventsCount": 31,
+            "hasLiveEvents": true,
+            "id": 32374,
+            "name": "Volta à Espanha"
+        },
+        {
+            "eventsCount": 10,
+            "hasLiveEvents": true,
+            "id": 37938,
+            "name": "Volta à Grã-Bretanha"
+        },
+        {
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 47252,
+            "name": "ZLM Tour"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 37061,
+            "name": "Salto em Distância"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 37188,
+            "name": "Salto com Vara"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 56646,
+            "name": "BWF LI-NING China Masters | Masculino | Duplas"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 56647,
+            "name": "BWF LI-NING China Masters | Feminino | Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56648,
+            "name": "Indonesia Masters, Masculino Individual"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 56679,
+            "name": "Indonesia Masters, Feminino Individual"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 56680,
+            "name": "BWF LI-NING China Masters | Misto | Duplas"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56681,
+            "name": "BWF LI-NING China Masters | Masculino | Individual"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 56682,
+            "name": "BWF LI-NING China Masters | Feminino | Individual"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56688,
+            "name": "Indonesia Masters, Misto Duplas"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 56691,
+            "name": "Indonesia Masters, Masculino Duplas"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 17338,
+            "name": "Sprint CM"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 17339,
+            "name": "Sprint CM"
+        },
+        {
+            "eventsCount": 65,
+            "hasLiveEvents": false,
+            "id": 18264,
+            "name": "Internatiocal"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 38361,
+            "name": "Taça Asiática Feminino de T20"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 7328,
+            "name": "Premier League das Caraíbas"
+        },
+        {
+            "eventsCount": 5,
+            "hasLiveEvents": true,
+            "id": 24557,
+            "name": "County Championship"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 7367,
+            "name": "T20 Vitality Blast"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 17374,
+            "name": "The Hundred"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 32048,
+            "name": "The Hundred, Women"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 63183,
+            "name": "ACC Premier Cup"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 43115,
+            "name": "T20 Uttar Pradesh Premier League"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4926,
+            "name": "Premier League da India"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 7323,
+            "name": "Liga Big Bash, Fem."
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3280,
+            "name": "Liga Big Bash"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 39542,
+            "name": "SA20 League"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 63100,
+            "name": "Europe Premier League T20"
+        },
+        {
+            "eventsCount": 16,
+            "hasLiveEvents": false,
+            "id": 17364,
+            "name": "PDC World Series of Darts - Finals"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 23523,
+            "name": "Modus Darts Online Live League"
+        },
+        {
+            "eventsCount": 13,
+            "hasLiveEvents": false,
+            "id": 32755,
+            "name": "PDC European Tour - Hungarian Darts Trophy"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3288,
+            "name": "Campeonato do Mundo PDC"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 10694,
+            "name": "Campeonato Mundial"
+        },
+        {
+            "eventsCount": 13,
+            "hasLiveEvents": false,
+            "id": 3264,
+            "name": "Liga dos Campeões"
+        },
+        {
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3265,
+            "name": "Liga dos Campeões Feminina"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 39526,
+            "name": "Supercopa Iberica"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 56438,
+            "name": "Supercopa Iberica, Women"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 3276,
+            "name": "HLA"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 3743,
+            "name": "1ª Divisão"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 3259,
+            "name": "Liga Andebol Dinamarca"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 3257,
+            "name": "Handboldligaen"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 3467,
+            "name": "LFH Divisão 1, Feminino"
+        },
+        {
+            "eventsCount": 9,
+            "hasLiveEvents": false,
+            "id": 3277,
+            "name": "LNH Divisão I"
+        },
+        {
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 4369,
+            "name": "LNH Proligue"
+        },
+        {
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 3254,
+            "name": "2ª Bundesliga"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 3253,
+            "name": "Bundesliga"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 3666,
+            "name": "NB I"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3366,
+            "name": "Superliga, Feminino"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 4138,
+            "name": "Liga Nacional"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 3270,
+            "name": "Super Liga"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 4247,
+            "name": "1ª Liga MIK"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3266,
+            "name": "Liga Asobal"
+        },
+        {
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 4204,
+            "name": "MNLA"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 57492,
+            "name": "IFF EuroFloorball Tour Women"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 58112,
+            "name": "IFF EuroFloorball Tour"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 56589,
+            "name": "1. Liga"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 24716,
+            "name": "Masters Tournament"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 31989,
+            "name": "The Open Championship\t\t"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 36691,
+            "name": "U.S. Open"
+        },
+        {
+            "eventsCount": 5,
+            "hasLiveEvents": false,
+            "id": 37776,
+            "name": "Omega European Masters"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 38261,
+            "name": "Presidents Cup"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 53992,
+            "name": "PGA Championship "
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 63180,
+            "name": "NI Legends"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 63181,
+            "name": "The Solheim Cup"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 10444,
+            "name": "NRL, Feminino"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 49302,
+            "name": "Copa do Mundo de Rugby League"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 10801,
+            "name": "NRL"
+        },
+        {
+            "eventsCount": 4,
+            "hasLiveEvents": false,
+            "id": 10798,
+            "name": "Campeonato RFL"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 10799,
+            "name": "Supe rliga"
+        },
+        {
+            "eventsCount": 3,
+            "hasLiveEvents": false,
+            "id": 31699,
+            "name": "Amistosos Internacionais"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 10775,
+            "name": "Premiership Inglesa"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 10778,
+            "name": "Taça Europeia"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 10792,
+            "name": "Amistosos Internacionais de Clubes"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 10776,
+            "name": "United Rugby Championship"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 10781,
+            "name": "Pro D2"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 10780,
+            "name": "Six Nations"
+        },
+        {
+            "eventsCount": 2,
+            "hasLiveEvents": false,
+            "id": 10494,
+            "name": "Taça Currie"
+        },
+        {
+            "eventsCount": 8,
+            "hasLiveEvents": false,
+            "id": 10777,
+            "name": "Top 14"
+        },
+        {
+            "eventsCount": 7,
+            "hasLiveEvents": false,
+            "id": 10796,
+            "name": "URBA Top 14"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 10782,
+            "name": "Taça do Mundo"
+        },
+        {
+            "eventsCount": 6,
+            "hasLiveEvents": false,
+            "id": 18746,
+            "name": "National Provincial Championship"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 62252,
+            "name": "Campeonato das Nações"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 4936,
+            "name": "Campeonato do Mundo"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 17332,
+            "name": "Campeonato do Reino Unido"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": false,
+            "id": 3850,
+            "name": "Masters"
+        },
+        {
+            "eventsCount": 1,
+            "hasLiveEvents": true,
+            "id": 32178,
+            "name": "British Open"
+        }
+    ]
+}

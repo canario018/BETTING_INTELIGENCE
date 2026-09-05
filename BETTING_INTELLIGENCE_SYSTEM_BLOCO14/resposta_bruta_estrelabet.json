@@ -1,0 +1,2288 @@
+{
+    "dates": [
+        {
+            "dateTime": "2026-09-03T03:00:00Z",
+            "eventIds": [
+                17536494,
+                17574885,
+                16428728,
+                17519990,
+                17574216,
+                17537087,
+                17508868,
+                17546634,
+                17537200
+            ]
+        }
+    ],
+    "availableChamps": [
+        {
+            "hasLiveEvents": false,
+            "id": 28116,
+            "name": "CONCACAF Caribbean Cup"
+        },
+        {
+            "hasLiveEvents": false,
+            "id": 4269,
+            "name": "Torneio Regional Federal de Amadores"
+        },
+        {
+            "hasLiveEvents": false,
+            "id": 3103,
+            "name": "Liga de Expansion MX"
+        },
+        {
+            "hasLiveEvents": false,
+            "id": 3857,
+            "name": "Primera A"
+        },
+        {
+            "hasLiveEvents": false,
+            "id": 4564,
+            "name": "LigaPro"
+        },
+        {
+            "hasLiveEvents": false,
+            "id": 4884,
+            "name": "Liga Profissional Primeira B"
+        },
+        {
+            "hasLiveEvents": false,
+            "id": 3685,
+            "name": "Liga Nacional - Apertura"
+        },
+        {
+            "hasLiveEvents": false,
+            "id": 3988,
+            "name": "Divisão Premier"
+        },
+        {
+            "hasLiveEvents": false,
+            "id": 9700,
+            "name": "Puerto Rico National Football League"
+        }
+    ],
+    "availableCategories": [
+        {
+            "champIds": [
+                28116
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1178,
+            "name": "Américas"
+        },
+        {
+            "champIds": [
+                4269
+            ],
+            "iso": "ARG",
+            "hasLiveEvents": false,
+            "id": 574,
+            "name": "Argentina"
+        },
+        {
+            "champIds": [
+                3103
+            ],
+            "iso": "MEX",
+            "hasLiveEvents": false,
+            "id": 560,
+            "name": "México"
+        },
+        {
+            "champIds": [
+                3857
+            ],
+            "iso": "COL",
+            "hasLiveEvents": false,
+            "id": 797,
+            "name": "Colômbia"
+        },
+        {
+            "champIds": [
+                4564,
+                4884
+            ],
+            "iso": "ECU",
+            "hasLiveEvents": false,
+            "id": 852,
+            "name": "Equador"
+        },
+        {
+            "champIds": [
+                3685
+            ],
+            "iso": "HND",
+            "hasLiveEvents": false,
+            "id": 759,
+            "name": "Honduras"
+        },
+        {
+            "champIds": [
+                3988
+            ],
+            "iso": "NIC",
+            "hasLiveEvents": false,
+            "id": 808,
+            "name": "Nicarágua"
+        },
+        {
+            "champIds": [
+                9700
+            ],
+            "iso": "PRI",
+            "hasLiveEvents": false,
+            "id": 1149,
+            "name": "Porto Rico"
+        }
+    ],
+    "topSports": [],
+    "headers": [
+        {
+            "typeId": 1,
+            "name": "Vencedor do encontro",
+            "mst": 0,
+            "odds": [
+                {
+                    "id": 1,
+                    "name": "1"
+                },
+                {
+                    "id": 2,
+                    "name": "X"
+                },
+                {
+                    "id": 3,
+                    "name": "2"
+                }
+            ]
+        },
+        {
+            "typeId": 18,
+            "name": "Total de Gols (incluindo linhas Asiáticas)",
+            "mst": 0,
+            "odds": [
+                {
+                    "id": 12,
+                    "name": "mais de"
+                },
+                {
+                    "id": 13,
+                    "name": "menos de"
+                }
+            ],
+            "specialOdd": {
+                "typeId": 1,
+                "name": "Gols"
+            }
+        },
+        {
+            "typeId": 29,
+            "name": "Ambas equipes marcam",
+            "mst": 0,
+            "odds": [
+                {
+                    "id": 74,
+                    "name": "sim"
+                },
+                {
+                    "id": 76,
+                    "name": "não"
+                }
+            ]
+        },
+        {
+            "typeId": 10,
+            "name": "Chance dupla",
+            "mst": 0,
+            "odds": [
+                {
+                    "id": 9,
+                    "name": "1X"
+                },
+                {
+                    "id": 10,
+                    "name": "12"
+                },
+                {
+                    "id": 11,
+                    "name": "X2"
+                }
+            ]
+        },
+        {
+            "typeId": 11,
+            "name": "Empate devolve aposta",
+            "mst": 0,
+            "odds": [
+                {
+                    "id": 1,
+                    "name": "1"
+                },
+                {
+                    "id": 3,
+                    "name": "2"
+                }
+            ]
+        }
+    ],
+    "pageCount": 0,
+    "page": 0,
+    "markets": [
+        {
+            "oddIds": [
+                4434245618,
+                4434245619,
+                4434245620
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1711408387,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4434245549,
+                4434245547,
+                4434245548
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1711408369,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4434245562,
+                4434245563
+            ],
+            "typeId": 11,
+            "sportMarketId": 70500,
+            "id": 1711408373,
+            "name": "Empate devolve aposta"
+        },
+        {
+            "oddIds": [
+                4434245449,
+                4434245450
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "2.5",
+            "sn": "2.5",
+            "id": 1711408334,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4434245513,
+                4434245514
+            ],
+            "typeId": 29,
+            "sportMarketId": 70545,
+            "id": 1711408366,
+            "name": "Ambas equipes marcam"
+        },
+        {
+            "oddIds": [
+                4440063441,
+                4440063442,
+                4440063443
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1713122638,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4440063389,
+                4440063387,
+                4440063388
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1713122624,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4440063393,
+                4440063394
+            ],
+            "typeId": 11,
+            "sportMarketId": 70500,
+            "id": 1713122626,
+            "name": "Empate devolve aposta"
+        },
+        {
+            "oddIds": [
+                4440063297,
+                4440063298
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "2.5",
+            "sn": "2.5",
+            "id": 1713122591,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4440063359,
+                4440063360
+            ],
+            "typeId": 29,
+            "sportMarketId": 70545,
+            "id": 1713122622,
+            "name": "Ambas equipes marcam"
+        },
+        {
+            "oddIds": [
+                4421953238,
+                4421953239,
+                4421953240
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1707279912,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4433916497,
+                4433916495,
+                4433916496
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1711333468,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4433916501,
+                4433916502
+            ],
+            "typeId": 11,
+            "sportMarketId": 70500,
+            "id": 1711333470,
+            "name": "Empate devolve aposta"
+        },
+        {
+            "oddIds": [
+                4421953440,
+                4421953441
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "2.5",
+            "sn": "2.5",
+            "id": 1707279954,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4439622174,
+                4439622175
+            ],
+            "typeId": 29,
+            "sportMarketId": 70545,
+            "id": 1713002381,
+            "name": "Ambas equipes marcam"
+        },
+        {
+            "oddIds": [
+                4423695775,
+                4423695776,
+                4423695777
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1707980763,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4423695625,
+                4423695623,
+                4423695624
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1707980728,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4423695662,
+                4423695663
+            ],
+            "typeId": 11,
+            "sportMarketId": 70500,
+            "id": 1707980736,
+            "name": "Empate devolve aposta"
+        },
+        {
+            "oddIds": [
+                4423695487,
+                4423695488
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "2.5",
+            "sn": "2.5",
+            "id": 1707980685,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4423695555,
+                4423695556
+            ],
+            "typeId": 29,
+            "sportMarketId": 70545,
+            "id": 1707980719,
+            "name": "Ambas equipes marcam"
+        },
+        {
+            "oddIds": [
+                4424156903,
+                4424156904,
+                4424156905
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1708164666,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4424156753,
+                4424156751,
+                4424156752
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1708164631,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4424156790,
+                4424156791
+            ],
+            "typeId": 11,
+            "sportMarketId": 70500,
+            "id": 1708164639,
+            "name": "Empate devolve aposta"
+        },
+        {
+            "oddIds": [
+                4424156617,
+                4424156618
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "1.5",
+            "sn": "1.5",
+            "id": 1708164589,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4424156683,
+                4424156684
+            ],
+            "typeId": 29,
+            "sportMarketId": 70545,
+            "id": 1708164622,
+            "name": "Ambas equipes marcam"
+        },
+        {
+            "oddIds": [
+                4438553766,
+                4438553767,
+                4438553768
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1712665657,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4438553697,
+                4438553695,
+                4438553696
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1712665639,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4438553710,
+                4438553711
+            ],
+            "typeId": 11,
+            "sportMarketId": 70500,
+            "id": 1712665643,
+            "name": "Empate devolve aposta"
+        },
+        {
+            "oddIds": [
+                4438553603,
+                4438553604
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "1.5",
+            "sn": "1.5",
+            "id": 1712665607,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4438553661,
+                4438553662
+            ],
+            "typeId": 29,
+            "sportMarketId": 70545,
+            "id": 1712665636,
+            "name": "Ambas equipes marcam"
+        },
+        {
+            "oddIds": [
+                4426451369,
+                4426451370,
+                4426451371
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1708813622,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4426451318,
+                4426451316,
+                4426451317
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1708813607,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4426451230,
+                4426451231
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "3.5",
+            "sn": "3.5",
+            "id": 1708813576,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4438622887,
+                4438622888,
+                4438622889
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1712695712,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4438622818,
+                4438622816,
+                4438622817
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1712695694,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4438622831,
+                4438622832
+            ],
+            "typeId": 11,
+            "sportMarketId": 70500,
+            "id": 1712695698,
+            "name": "Empate devolve aposta"
+        },
+        {
+            "oddIds": [
+                4438622676,
+                4438622677
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "2.5",
+            "sn": "2.5",
+            "id": 1712695637,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4438622782,
+                4438622783
+            ],
+            "typeId": 29,
+            "sportMarketId": 70545,
+            "id": 1712695691,
+            "name": "Ambas equipes marcam"
+        },
+        {
+            "oddIds": [
+                4439337351,
+                4439337352,
+                4439337353
+            ],
+            "typeId": 1,
+            "sportMarketId": 70472,
+            "id": 1712945022,
+            "name": "Vencedor do encontro"
+        },
+        {
+            "oddIds": [
+                4439337322,
+                4439337320,
+                4439337321
+            ],
+            "typeId": 10,
+            "sportMarketId": 70495,
+            "id": 1712945013,
+            "name": "Chance dupla"
+        },
+        {
+            "oddIds": [
+                4439337323,
+                4439337324
+            ],
+            "typeId": 11,
+            "sportMarketId": 70500,
+            "id": 1712945014,
+            "name": "Empate devolve aposta"
+        },
+        {
+            "oddIds": [
+                4439337250,
+                4439337251
+            ],
+            "typeId": 18,
+            "sportMarketId": 70520,
+            "sv": "3.5",
+            "sn": "3.5",
+            "id": 1712944978,
+            "name": "Total de Gols (incluindo linhas Asiáticas)"
+        },
+        {
+            "oddIds": [
+                4439405719,
+                4439405720
+            ],
+            "typeId": 29,
+            "sportMarketId": 70545,
+            "id": 1712969945,
+            "name": "Ambas equipes marcam"
+        }
+    ],
+    "odds": [
+        {
+            "typeId": 1,
+            "price": 2.5,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 50945,
+            "isDBB": true,
+            "id": 4434245618,
+            "name": "Cavaliers FC"
+        },
+        {
+            "typeId": 2,
+            "price": 3.2,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4434245619,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 2.4,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 50980,
+            "isDBB": true,
+            "id": 4434245620,
+            "name": "Portmore United FC"
+        },
+        {
+            "typeId": 9,
+            "price": 1.4286,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 50945,
+            "isDBB": true,
+            "id": 4434245549,
+            "name": "Cavaliers FC ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.2728,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4434245547,
+            "name": "Cavaliers FC ou Portmore United FC"
+        },
+        {
+            "typeId": 11,
+            "price": 1.4,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 50980,
+            "isDBB": true,
+            "id": 4434245548,
+            "name": "Empate ou Portmore United FC"
+        },
+        {
+            "typeId": 1,
+            "price": 1.8334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 50945,
+            "id": 4434245562,
+            "name": "Cavaliers FC"
+        },
+        {
+            "typeId": 3,
+            "price": 1.8334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 50980,
+            "id": 4434245563,
+            "name": "Portmore United FC"
+        },
+        {
+            "typeId": 12,
+            "price": 1.8572,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4434245449,
+            "name": "Mais de 2.5"
+        },
+        {
+            "typeId": 13,
+            "price": 1.6924,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4434245450,
+            "name": "Menos de 2.5"
+        },
+        {
+            "typeId": 74,
+            "price": 1.7143,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4434245513,
+            "name": "Sim"
+        },
+        {
+            "typeId": 76,
+            "price": 1.8667,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4434245514,
+            "name": "Não"
+        },
+        {
+            "typeId": 1,
+            "price": 1.7,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 137313,
+            "isDBB": true,
+            "id": 4440063441,
+            "name": "Don Orione AC"
+        },
+        {
+            "typeId": 2,
+            "price": 3.4,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4440063442,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 4.0,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 138099,
+            "isDBB": true,
+            "id": 4440063443,
+            "name": "Deportivo Guiraldes"
+        },
+        {
+            "typeId": 9,
+            "price": 1.2,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 137313,
+            "isDBB": true,
+            "id": 4440063389,
+            "name": "Don Orione AC ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.2308,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4440063387,
+            "name": "Don Orione AC ou Deportivo Guiraldes"
+        },
+        {
+            "typeId": 11,
+            "price": 1.8,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 138099,
+            "isDBB": true,
+            "id": 4440063388,
+            "name": "Empate ou Deportivo Guiraldes"
+        },
+        {
+            "typeId": 1,
+            "price": 1.3,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 137313,
+            "id": 4440063393,
+            "name": "Don Orione AC"
+        },
+        {
+            "typeId": 3,
+            "price": 3.2,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 138099,
+            "id": 4440063394,
+            "name": "Deportivo Guiraldes"
+        },
+        {
+            "typeId": 12,
+            "price": 1.8889,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4440063297,
+            "name": "Mais de 2.5"
+        },
+        {
+            "typeId": 13,
+            "price": 1.6667,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4440063298,
+            "name": "Menos de 2.5"
+        },
+        {
+            "typeId": 74,
+            "price": 1.8462,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4440063359,
+            "name": "Sim"
+        },
+        {
+            "typeId": 76,
+            "price": 1.7273,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4440063360,
+            "name": "Não"
+        },
+        {
+            "typeId": 1,
+            "price": 1.9231,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 76500,
+            "isDBB": true,
+            "id": 4421953238,
+            "name": "Tepatitlan de Morelos"
+        },
+        {
+            "typeId": 2,
+            "price": 3.5,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4421953239,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 3.1,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 52659,
+            "isDBB": true,
+            "id": 4421953240,
+            "name": "Csd Dorados Sinaloa"
+        },
+        {
+            "typeId": 9,
+            "price": 1.2858,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 76500,
+            "isDBB": true,
+            "id": 4433916497,
+            "name": "Tepatitlan de Morelos ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.2308,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4433916495,
+            "name": "Tepatitlan de Morelos ou Csd Dorados Sinaloa"
+        },
+        {
+            "typeId": 11,
+            "price": 1.6364,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 52659,
+            "isDBB": true,
+            "id": 4433916496,
+            "name": "Empate ou Csd Dorados Sinaloa"
+        },
+        {
+            "typeId": 1,
+            "price": 1.5,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 76500,
+            "id": 4433916501,
+            "name": "Tepatitlan de Morelos"
+        },
+        {
+            "typeId": 3,
+            "price": 2.4,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 52659,
+            "id": 4433916502,
+            "name": "Csd Dorados Sinaloa"
+        },
+        {
+            "typeId": 12,
+            "price": 1.6667,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4421953440,
+            "name": "Mais de 2.5"
+        },
+        {
+            "typeId": 13,
+            "price": 1.8889,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4421953441,
+            "name": "Menos de 2.5"
+        },
+        {
+            "typeId": 74,
+            "price": 1.6154,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4439622174,
+            "name": "Sim"
+        },
+        {
+            "typeId": 76,
+            "price": 2.0,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4439622175,
+            "name": "Não"
+        },
+        {
+            "typeId": 1,
+            "price": 6.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 57515,
+            "isDBB": true,
+            "id": 4423695775,
+            "name": "Deportes Pereira"
+        },
+        {
+            "typeId": 2,
+            "price": 3.8,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4423695776,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 1.5,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 57680,
+            "isDBB": true,
+            "id": 4423695777,
+            "name": "Independiente Medellin"
+        },
+        {
+            "typeId": 9,
+            "price": 2.4,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 57515,
+            "isDBB": true,
+            "id": 4423695625,
+            "name": "Deportes Pereira ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.2308,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4423695623,
+            "name": "Deportes Pereira ou Independiente Medellin"
+        },
+        {
+            "typeId": 11,
+            "price": 1.1334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 57680,
+            "isDBB": true,
+            "id": 4423695624,
+            "name": "Empate ou Independiente Medellin"
+        },
+        {
+            "typeId": 1,
+            "price": 4.75,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 57515,
+            "id": 4423695662,
+            "name": "Deportes Pereira"
+        },
+        {
+            "typeId": 3,
+            "price": 1.1819,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 57680,
+            "id": 4423695663,
+            "name": "Independiente Medellin"
+        },
+        {
+            "typeId": 12,
+            "price": 1.7858,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4423695487,
+            "name": "Mais de 2.5"
+        },
+        {
+            "typeId": 13,
+            "price": 1.8889,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4423695488,
+            "name": "Menos de 2.5"
+        },
+        {
+            "typeId": 74,
+            "price": 2.0,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4423695555,
+            "name": "Sim"
+        },
+        {
+            "typeId": 76,
+            "price": 1.8,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4423695556,
+            "name": "Não"
+        },
+        {
+            "typeId": 1,
+            "price": 2.3637,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 166696,
+            "isDBB": true,
+            "id": 4424156903,
+            "name": "Libertad Loja"
+        },
+        {
+            "typeId": 2,
+            "price": 3.0,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4424156904,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 3.0,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 52693,
+            "isDBB": true,
+            "id": 4424156905,
+            "name": "Emelec"
+        },
+        {
+            "typeId": 9,
+            "price": 1.35,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 166696,
+            "isDBB": true,
+            "id": 4424156753,
+            "name": "Libertad Loja ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.3847,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4424156751,
+            "name": "Libertad Loja ou Emelec"
+        },
+        {
+            "typeId": 11,
+            "price": 1.5455,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 52693,
+            "isDBB": true,
+            "id": 4424156752,
+            "name": "Empate ou Emelec"
+        },
+        {
+            "typeId": 1,
+            "price": 1.6667,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 166696,
+            "id": 4424156790,
+            "name": "Libertad Loja"
+        },
+        {
+            "typeId": 3,
+            "price": 2.2,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 52693,
+            "id": 4424156791,
+            "name": "Emelec"
+        },
+        {
+            "typeId": 12,
+            "price": 1.4706,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4424156617,
+            "name": "Mais de 1.5"
+        },
+        {
+            "typeId": 13,
+            "price": 2.4286,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4424156618,
+            "name": "Menos de 1.5"
+        },
+        {
+            "typeId": 74,
+            "price": 2.1429,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4424156683,
+            "name": "Sim"
+        },
+        {
+            "typeId": 76,
+            "price": 1.7,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4424156684,
+            "name": "Não"
+        },
+        {
+            "typeId": 1,
+            "price": 2.2,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 71692,
+            "isDBB": true,
+            "id": 4438553766,
+            "name": "CD Santo Domingo"
+        },
+        {
+            "typeId": 2,
+            "price": 2.5715,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438553767,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 3.5,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 133104,
+            "isDBB": true,
+            "id": 4438553768,
+            "name": "Cumbaya FC"
+        },
+        {
+            "typeId": 9,
+            "price": 1.2308,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 71692,
+            "isDBB": true,
+            "id": 4438553697,
+            "name": "CD Santo Domingo ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.3847,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438553695,
+            "name": "CD Santo Domingo ou Cumbaya FC"
+        },
+        {
+            "typeId": 11,
+            "price": 1.5,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 133104,
+            "isDBB": true,
+            "id": 4438553696,
+            "name": "Empate ou Cumbaya FC"
+        },
+        {
+            "typeId": 1,
+            "price": 1.5,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 71692,
+            "id": 4438553710,
+            "name": "CD Santo Domingo"
+        },
+        {
+            "typeId": 3,
+            "price": 2.4,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 133104,
+            "id": 4438553711,
+            "name": "Cumbaya FC"
+        },
+        {
+            "typeId": 12,
+            "price": 1.625,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438553603,
+            "name": "Mais de 1.5"
+        },
+        {
+            "typeId": 13,
+            "price": 1.9412,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438553604,
+            "name": "Menos de 1.5"
+        },
+        {
+            "typeId": 74,
+            "price": 2.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438553661,
+            "name": "Sim"
+        },
+        {
+            "typeId": 76,
+            "price": 1.4445,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438553662,
+            "name": "Não"
+        },
+        {
+            "typeId": 1,
+            "price": 1.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 54304,
+            "isDBB": true,
+            "id": 4426451369,
+            "name": "CD Olimpia"
+        },
+        {
+            "typeId": 2,
+            "price": 4.5,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4426451370,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 6.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 57273,
+            "isDBB": true,
+            "id": 4426451371,
+            "name": "Platense"
+        },
+        {
+            "typeId": 9,
+            "price": 1.091,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 54304,
+            "isDBB": true,
+            "id": 4426451318,
+            "name": "CD Olimpia ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.1429,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4426451316,
+            "name": "CD Olimpia ou Platense"
+        },
+        {
+            "typeId": 11,
+            "price": 2.4546,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 57273,
+            "isDBB": true,
+            "id": 4426451317,
+            "name": "Empate ou Platense"
+        },
+        {
+            "typeId": 12,
+            "price": 2.3,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4426451230,
+            "name": "Mais de 3.5"
+        },
+        {
+            "typeId": 13,
+            "price": 1.5,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4426451231,
+            "name": "Menos de 3.5"
+        },
+        {
+            "typeId": 1,
+            "price": 1.8889,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 131363,
+            "isDBB": true,
+            "id": 4438622887,
+            "name": "Matagalpa"
+        },
+        {
+            "typeId": 2,
+            "price": 3.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438622888,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 3.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 69666,
+            "isDBB": true,
+            "id": 4438622889,
+            "name": "Unan Managua"
+        },
+        {
+            "typeId": 9,
+            "price": 1.25,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 131363,
+            "isDBB": true,
+            "id": 4438622818,
+            "name": "Matagalpa ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.25,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438622816,
+            "name": "Matagalpa ou Unan Managua"
+        },
+        {
+            "typeId": 11,
+            "price": 1.6667,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 69666,
+            "isDBB": true,
+            "id": 4438622817,
+            "name": "Empate ou Unan Managua"
+        },
+        {
+            "typeId": 1,
+            "price": 1.4546,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 131363,
+            "id": 4438622831,
+            "name": "Matagalpa"
+        },
+        {
+            "typeId": 3,
+            "price": 2.5455,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 69666,
+            "id": 4438622832,
+            "name": "Unan Managua"
+        },
+        {
+            "typeId": 12,
+            "price": 1.7273,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438622676,
+            "name": "Mais de 2.5"
+        },
+        {
+            "typeId": 13,
+            "price": 1.8182,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438622677,
+            "name": "Menos de 2.5"
+        },
+        {
+            "typeId": 74,
+            "price": 1.6471,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438622782,
+            "name": "Sim"
+        },
+        {
+            "typeId": 76,
+            "price": 1.95,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4438622783,
+            "name": "Não"
+        },
+        {
+            "typeId": 1,
+            "price": 5.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 168346,
+            "isDBB": true,
+            "id": 4439337351,
+            "name": "Guaynabo Gol SC"
+        },
+        {
+            "typeId": 2,
+            "price": 4.75,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4439337352,
+            "name": "Empate"
+        },
+        {
+            "typeId": 3,
+            "price": 1.3637,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 133728,
+            "isDBB": true,
+            "id": 4439337353,
+            "name": "San Juan La Laguna FC"
+        },
+        {
+            "typeId": 9,
+            "price": 2.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 168346,
+            "isDBB": true,
+            "id": 4439337322,
+            "name": "Guaynabo Gol SC ou empate"
+        },
+        {
+            "typeId": 10,
+            "price": 1.1334,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4439337320,
+            "name": "Guaynabo Gol SC ou San Juan La Laguna FC"
+        },
+        {
+            "typeId": 11,
+            "price": 1.125,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 133728,
+            "isDBB": true,
+            "id": 4439337321,
+            "name": "Empate ou San Juan La Laguna FC"
+        },
+        {
+            "typeId": 1,
+            "price": 4.3334,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 168346,
+            "id": 4439337323,
+            "name": "Guaynabo Gol SC"
+        },
+        {
+            "typeId": 3,
+            "price": 1.1667,
+            "isMB": false,
+            "oddStatus": 0,
+            "competitorId": 133728,
+            "id": 4439337324,
+            "name": "San Juan La Laguna FC"
+        },
+        {
+            "typeId": 12,
+            "price": 1.5556,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4439337250,
+            "name": "Mais de 3.5"
+        },
+        {
+            "typeId": 13,
+            "price": 2.05,
+            "isMB": true,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4439337251,
+            "name": "Menos de 3.5"
+        },
+        {
+            "typeId": 74,
+            "price": 1.35,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4439405719,
+            "name": "Sim"
+        },
+        {
+            "typeId": 76,
+            "price": 2.625,
+            "isMB": false,
+            "oddStatus": 0,
+            "isDBB": true,
+            "id": 4439405720,
+            "name": "Não"
+        }
+    ],
+    "events": [
+        {
+            "marketIds": [
+                1711408387,
+                1711408369,
+                1711408373,
+                1711408334,
+                1711408366
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 1653,
+            "hasStream": false,
+            "extId": "fp32_ar:match:641505",
+            "sc": 1283,
+            "mc": 134,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": true,
+            "competitorIds": [
+                50945,
+                50980
+            ],
+            "sportId": 66,
+            "catId": 1178,
+            "champId": 28116,
+            "status": 0,
+            "startDate": "2026-09-04T00:00:00Z",
+            "id": 17536494,
+            "name": "Cavaliers FC vs. Portmore United FC"
+        },
+        {
+            "marketIds": [
+                1713122638,
+                1713122624,
+                1713122626,
+                1713122591,
+                1713122622
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 6931,
+            "hasStream": false,
+            "extId": "fp32_ar:match:643167",
+            "sc": 838,
+            "mc": 77,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": false,
+            "competitorIds": [
+                137313,
+                138099
+            ],
+            "sportId": 66,
+            "catId": 574,
+            "champId": 4269,
+            "status": 0,
+            "startDate": "2026-09-04T00:00:00Z",
+            "id": 17574885,
+            "name": "Don Orione AC vs. Deportivo Guiraldes"
+        },
+        {
+            "marketIds": [
+                1707279912,
+                1711333468,
+                1711333470,
+                1707279954,
+                1713002381
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 9369,
+            "hasStream": false,
+            "extId": "fp32_ar:match:639707",
+            "sc": 992,
+            "mc": 100,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": true,
+            "competitorIds": [
+                76500,
+                52659
+            ],
+            "sportId": 66,
+            "catId": 560,
+            "champId": 3103,
+            "status": 0,
+            "startDate": "2026-09-04T01:00:00Z",
+            "id": 17537087,
+            "name": "Tepatitlan de Morelos vs. Csd Dorados Sinaloa"
+        },
+        {
+            "marketIds": [
+                1707980763,
+                1707980728,
+                1707980736,
+                1707980685,
+                1707980719
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 8343,
+            "hasStream": true,
+            "extId": "fp32_ar:match:639959",
+            "sc": 6666,
+            "mc": 296,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": true,
+            "competitorIds": [
+                57515,
+                57680
+            ],
+            "sportId": 66,
+            "catId": 797,
+            "champId": 3857,
+            "status": 0,
+            "startDate": "2026-09-04T01:00:00Z",
+            "id": 17508868,
+            "name": "Deportes Pereira vs. Independiente Medellin"
+        },
+        {
+            "marketIds": [
+                1708164666,
+                1708164631,
+                1708164639,
+                1708164589,
+                1708164622
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 179,
+            "hasStream": true,
+            "extId": "fp32_ar:match:629683",
+            "sc": 5534,
+            "mc": 244,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": true,
+            "competitorIds": [
+                166696,
+                52693
+            ],
+            "sportId": 66,
+            "catId": 852,
+            "champId": 4564,
+            "status": 0,
+            "startDate": "2026-09-04T00:00:00Z",
+            "id": 16428728,
+            "name": "Libertad Loja vs. Emelec"
+        },
+        {
+            "marketIds": [
+                1712665657,
+                1712665639,
+                1712665643,
+                1712665607,
+                1712665636
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 29,
+            "hasStream": false,
+            "extId": "fp32_ar:match:636901",
+            "sc": 1108,
+            "mc": 118,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": false,
+            "competitorIds": [
+                71692,
+                133104
+            ],
+            "sportId": 66,
+            "catId": 852,
+            "champId": 4884,
+            "status": 0,
+            "startDate": "2026-09-04T00:00:00Z",
+            "id": 17519990,
+            "name": "CD Santo Domingo vs. Cumbaya FC"
+        },
+        {
+            "marketIds": [
+                1708813622,
+                1708813607,
+                1708813576
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 5049,
+            "hasStream": false,
+            "extId": "fp32_ar:match:640619",
+            "sc": 27,
+            "mc": 6,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": true,
+            "competitorIds": [
+                54304,
+                57273
+            ],
+            "sportId": 66,
+            "catId": 759,
+            "champId": 3685,
+            "status": 0,
+            "startDate": "2026-09-04T01:00:00Z",
+            "id": 17546634,
+            "name": "CD Olimpia vs. Platense"
+        },
+        {
+            "marketIds": [
+                1712695712,
+                1712695694,
+                1712695698,
+                1712695637,
+                1712695691
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 9063,
+            "hasStream": false,
+            "extId": "fp32_ar:match:644621",
+            "sc": 1029,
+            "mc": 110,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": true,
+            "competitorIds": [
+                131363,
+                69666
+            ],
+            "sportId": 66,
+            "catId": 808,
+            "champId": 3988,
+            "status": 0,
+            "startDate": "2026-09-04T01:00:00Z",
+            "id": 17537200,
+            "name": "Matagalpa vs. Unan Managua"
+        },
+        {
+            "marketIds": [
+                1712945022,
+                1712945013,
+                1712945014,
+                1712944978,
+                1712969945
+            ],
+            "isBooked": true,
+            "isParlay": false,
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "code": 4994,
+            "hasStream": false,
+            "extId": "fp32_ar:match:643004",
+            "sc": 911,
+            "mc": 76,
+            "rc": false,
+            "pId": 32,
+            "et": 0,
+            "hasStats": true,
+            "competitorIds": [
+                168346,
+                133728
+            ],
+            "sportId": 66,
+            "catId": 1149,
+            "champId": 9700,
+            "status": 0,
+            "startDate": "2026-09-04T00:30:00Z",
+            "id": 17574216,
+            "name": "Guaynabo Gol SC vs. San Juan La Laguna FC"
+        }
+    ],
+    "sports": [
+        {
+            "catIds": [
+                1178,
+                574,
+                560,
+                797,
+                852,
+                759,
+                808,
+                1149
+            ],
+            "typeId": 1,
+            "iconName": "soccer",
+            "hasLiveEvents": false,
+            "id": 66,
+            "name": "Futebol"
+        }
+    ],
+    "categories": [
+        {
+            "champIds": [
+                28116
+            ],
+            "iso": "",
+            "hasLiveEvents": false,
+            "id": 1178,
+            "name": "Américas"
+        },
+        {
+            "champIds": [
+                4269
+            ],
+            "iso": "ARG",
+            "hasLiveEvents": false,
+            "id": 574,
+            "name": "Argentina"
+        },
+        {
+            "champIds": [
+                3103
+            ],
+            "iso": "MEX",
+            "hasLiveEvents": false,
+            "id": 560,
+            "name": "México"
+        },
+        {
+            "champIds": [
+                3857
+            ],
+            "iso": "COL",
+            "hasLiveEvents": false,
+            "id": 797,
+            "name": "Colômbia"
+        },
+        {
+            "champIds": [
+                4564,
+                4884
+            ],
+            "iso": "ECU",
+            "hasLiveEvents": false,
+            "id": 852,
+            "name": "Equador"
+        },
+        {
+            "champIds": [
+                3685
+            ],
+            "iso": "HND",
+            "hasLiveEvents": false,
+            "id": 759,
+            "name": "Honduras"
+        },
+        {
+            "champIds": [
+                3988
+            ],
+            "iso": "NIC",
+            "hasLiveEvents": false,
+            "id": 808,
+            "name": "Nicarágua"
+        },
+        {
+            "champIds": [
+                9700
+            ],
+            "iso": "PRI",
+            "hasLiveEvents": false,
+            "id": 1149,
+            "name": "Porto Rico"
+        }
+    ],
+    "champs": [
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 28116,
+            "name": "CONCACAF Caribbean Cup"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 4269,
+            "name": "Torneio Regional Federal de Amadores"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 3103,
+            "name": "Liga de Expansion MX"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 3857,
+            "name": "Primera A"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 4564,
+            "name": "LigaPro"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 4884,
+            "name": "Liga Profissional Primeira B"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 3685,
+            "name": "Liga Nacional - Apertura"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 3988,
+            "name": "Divisão Premier"
+        },
+        {
+            "offers": [
+                {
+                    "type": 6
+                }
+            ],
+            "hasLiveEvents": false,
+            "id": 9700,
+            "name": "Puerto Rico National Football League"
+        }
+    ],
+    "competitors": [
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "CAV",
+            "id": 50945,
+            "name": "Cavaliers FC"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "PTU",
+            "id": 50980,
+            "name": "Portmore United FC"
+        },
+        {
+            "hasConfigLogo": true,
+            "id": 137313,
+            "name": "Don Orione AC"
+        },
+        {
+            "id": 138099,
+            "name": "Deportivo Guiraldes"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "TEP",
+            "id": 76500,
+            "name": "Tepatitlan de Morelos"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "DRD",
+            "id": 52659,
+            "name": "Csd Dorados Sinaloa"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "DEP",
+            "id": 57515,
+            "name": "Deportes Pereira"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "DIM",
+            "id": 57680,
+            "name": "Independiente Medellin"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "LIB",
+            "id": 166696,
+            "name": "Libertad Loja"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "CSE",
+            "id": 52693,
+            "name": "Emelec"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "SAN",
+            "id": 71692,
+            "name": "CD Santo Domingo"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "CUM",
+            "id": 133104,
+            "name": "Cumbaya FC"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "OLI",
+            "id": 54304,
+            "name": "CD Olimpia"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "PLA",
+            "id": 57273,
+            "name": "Platense"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "IMA",
+            "id": 131363,
+            "name": "Matagalpa"
+        },
+        {
+            "hasConfigLogo": true,
+            "abbreviation": "MAG",
+            "id": 69666,
+            "name": "Unan Managua"
+        },
+        {
+            "id": 168346,
+            "name": "Guaynabo Gol SC"
+        },
+        {
+            "hasConfigLogo": true,
+            "id": 133728,
+            "name": "San Juan La Laguna FC"
+        }
+    ]
+}

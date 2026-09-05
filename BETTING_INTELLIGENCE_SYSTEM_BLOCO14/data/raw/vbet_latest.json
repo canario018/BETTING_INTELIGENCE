@@ -1,0 +1,503 @@
+{
+  "default": {
+    "layout": [
+      {
+        "id": "em7astfcz",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "y9mu2jbu8",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "p41uo0aem",
+                "name": "imageWithLink",
+                "type": "COMPONENT",
+                "settings": {
+                  "aspectRatio": "4/1",
+                  "rowItemsCount": 4,
+                  "customClassName": "sport-page"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "5h8v16ks2",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "08ugcuuh2",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "1m4vm5wx1",
+                "name": "banner",
+                "type": "COMPONENT",
+                "settings": {
+                  "slug": "sport_banners",
+                  "title": "Banner",
+                  "aspectRatio": "4/1"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "2nx72q9bv",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "q5es5rqdy",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "hqym1a4lb",
+                "name": "classicSportsList",
+                "type": "COMPONENT",
+                "settings": {
+                  "title": "builder_classicSportsList_title_1",
+                  "showTitle": false,
+                  "lineDecoration": false,
+                  "customClassName": "SportWidget-parentStyles"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "rhk23wdek",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "ryp5779zv",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "aav2khg14",
+                "name": "competitionsWidget",
+                "type": "COMPONENT",
+                "settings": {
+                  "viewType": "viewType2",
+                  "customClassName": "vbet-popular-competitions"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "zzwd8puve",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "lthl4bh7r",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "s2t3bzbkx",
+                "name": "topEvents",
+                "type": "COMPONENT",
+                "settings": {
+                  "title": "Jogos em Destaque",
+                  "showTitle": true,
+                  "gamesCount": 20,
+                  "lineDecoration": false,
+                  "customClassName": "vb-card-odds"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "fxqr4gom3",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "4w4q9ia3y",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "ntpyzix9r",
+                "name": "multipleOfTheDay",
+                "type": "COMPONENT",
+                "settings": {
+                  "title": "Múltiplas do dia",
+                  "showTitle": true,
+                  "lineDecoration": false,
+                  "customClassName": "multipleList"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "6hu6o45zv",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "a6z09b2zd",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "rfkrfnw53",
+                "name": "boostedOddsWidget",
+                "type": "COMPONENT",
+                "settings": {}
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "p610iu5ff",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "1h3eomkah",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "c6bmdbl93",
+                "name": "popularPlayers",
+                "type": "COMPONENT",
+                "settings": {
+                  "excludeGoalscorer": false
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "szeuwlvc8",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "xb95krx48",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "dlzftlwo6",
+                "name": "betGeneratorBanner",
+                "type": "COMPONENT",
+                "settings": {
+                  "viewType": "action"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0u3zykqjo",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "6f15jvbzo",
+                "name": "tinderBetsWidget",
+                "type": "COMPONENT",
+                "settings": {}
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "column",
+          "gridTemplate": [
+            6,
+            6
+          ]
+        }
+      },
+      {
+        "id": "qhmpn6tw9",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "rl2spm617",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "etmdrxxsn",
+                "name": "imageWithLink",
+                "type": "COMPONENT",
+                "settings": {
+                  "title": "Aposte com Inteligência Artificial",
+                  "showTitle": true,
+                  "aspectRatio": "4/1",
+                  "rowItemsCount": 4,
+                  "customClassName": "widget-main-title-custom"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "nh7qny648",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "7yamavs11",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "5vmtgwtpo",
+                "name": "bettingMate",
+                "type": "COMPONENT",
+                "settings": {
+                  "customClassName": "vb-card-odds"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "vtue6e0sh",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "9533cqpu5",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "e5tkufsr6",
+                "name": "betBuilderAiExpress",
+                "type": "COMPONENT",
+                "settings": {
+                  "title": "IAposta",
+                  "showTitle": true,
+                  "customClassName": "MultipleOfTheDay-AI",
+                  "lineDecoration": false
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "mz9qphw98",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "6n2cmact9",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "20rv77pdx",
+                "name": "sportWidget",
+                "type": "COMPONENT",
+                "settings": {
+                  "tabs": [
+                    {
+                      "key": "live",
+                      "icon": "liveGames",
+                      "enabled": true
+                    },
+                    {
+                      "key": "boosted",
+                      "icon": "boosted",
+                      "enabled": true
+                    },
+                    {
+                      "key": "popular",
+                      "icon": "trophy",
+                      "enabled": false,
+                      "includedSportTypes": [
+                        0
+                      ]
+                    },
+                    {
+                      "key": "upcoming",
+                      "icon": "clock2",
+                      "enabled": true
+                    },
+                    {
+                      "key": "express",
+                      "icon": "datepicker",
+                      "enabled": false
+                    }
+                  ],
+                  "title": "builder_sportWidget_title_1",
+                  "viewType": "viewType1",
+                  "showTitle": false
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "t2bq1ib6r",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "1u46j9jhm",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "cb6k4kwbo",
+                "name": "casino",
+                "type": "COMPONENT",
+                "settings": {
+                  "viewType": "viewType3",
+                  "categoryId": "120",
+                  "defaultTitle": "category",
+                  "favoriteType": "casino"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      },
+      {
+        "id": "qvfxyqj48",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "w26v8cbwe",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "mott2letf",
+                "name": "liveCasinoWidget",
+                "type": "COMPONENT",
+                "settings": {
+                  "title": "Cassino Ao Vivo",
+                  "viewType": "viewType3",
+                  "showTitle": true
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      }
+    ],
+    "isActive": true
+  },
+  "layout1": {
+    "layout": [
+      {
+        "id": "mwctzxsa9",
+        "type": "ROW",
+        "content": [
+          {
+            "id": "2ojhcfv72",
+            "type": "COLUMN",
+            "content": [
+              {
+                "id": "17oy7knfh",
+                "name": "betBuilderAiExpress",
+                "type": "COMPONENT",
+                "settings": {
+                  "customClassName": "MultipleOfTheDay-AI"
+                }
+              }
+            ]
+          }
+        ],
+        "settings": {
+          "layoutId": "container",
+          "gridTemplate": [
+            12
+          ]
+        }
+      }
+    ],
+    "isActive": false,
+    "rules": [
+      {
+        "profileType": 10
+      }
+    ]
+  }
+}
